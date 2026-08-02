@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1855686425724735963",
+    "created_at": "2024-11-10T18:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T19:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1855686425724735963"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mettazashi3756…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/mettazashi37564/status/1839884528439177390",
+          "start": 9,
+          "url": "https://t.co/Z5bx1tc3xo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855686425724735963",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839884528439177390",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可愛い。。。。。 https://t.co/Z5bx1tc3xo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1855686425724735963",
+        "created_at": "2024-11-10T18:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T19:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855686425724735963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mettazashi3756…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/mettazashi37564/status/1839884528439177390",
+              "start": 9,
+              "url": "https://t.co/Z5bx1tc3xo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855686425724735963",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839884528439177390",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可愛い。。。。。 https://t.co/Z5bx1tc3xo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839884523435372545"
+          ]
+        },
+        "author_id": "1802157534754865152",
+        "conversation_id": "1839884528439177390",
+        "created_at": "2024-09-28T04:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T05:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839884528439177390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7AdpLPgRWS",
+              "end": 38,
+              "expanded_url": "https://x.com/mettazashi37564/status/1839884528439177390/photo/1",
+              "media_key": "3_1839884523435372545",
+              "start": 15,
+              "url": "https://t.co/7AdpLPgRWS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839884528439177390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 24327,
+          "like_count": 677,
+          "quote_count": 9,
+          "reply_count": 1,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "殺人R06/09/1たKIが https://t.co/7AdpLPgRWS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 💀 悲情诗人",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811770992915808257/RzDX1nk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7288,
+          "following_count": 153,
+          "like_count": 4388,
+          "listed_count": 19,
+          "tweet_count": 2025
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T01:54:19.000Z",
+        "description": "『ぶち殺MV集』https://t.co/HKhnTocqIc『日記』https://t.co/1qlMCKnZHB (ゲボ)https://t.co/wc8tIvVgOO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@senketsuakoch…",
+                "end": 31,
+                "expanded_url": "https://youtube.com/@senketsuakochan?feature=shared",
+                "start": 8,
+                "url": "https://t.co/HKhnTocqIc"
+              },
+              {
+                "display_url": "note.com/senketsu_hirok…",
+                "end": 58,
+                "expanded_url": "https://note.com/senketsu_hirokun/",
+                "start": 35,
+                "url": "https://t.co/1qlMCKnZHB"
+              },
+              {
+                "display_url": "instagram.com/senketsu_metta…",
+                "end": 86,
+                "expanded_url": "https://www.instagram.com/senketsu_mettazashi37564/",
+                "start": 63,
+                "url": "https://t.co/wc8tIvVgOO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tunecore.co.jp/artists/senket…",
+                "end": 23,
+                "expanded_url": "https://www.tunecore.co.jp/artists/senketsuAkochan?lang=ja",
+                "start": 0,
+                "url": "https://t.co/j12i6PsBAg"
+              }
+            ]
+          }
+        },
+        "id": "1802157534754865152",
+        "location": "刺ブスク🔪",
+        "name": "鮮血A子ちゃん 滅多刺しひろくん",
+        "pinned_tweet_id": "1806614296585244692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849731795887243264/CxelV27V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2752,
+          "following_count": 6,
+          "like_count": 432,
+          "listed_count": 3,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/j12i6PsBAg",
+        "username": "mettazashi37564",
+        "verified": false
+      }
+    ]
+  }
+}

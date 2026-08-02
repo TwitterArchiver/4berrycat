@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1835701274052116480"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "1835701320751403283",
+    "created_at": "2024-09-16T15:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T16:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1835701320751403283"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "goth"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rsl7bf2j31",
+          "end": 29,
+          "expanded_url": "https://twitter.com/4berrycat/status/1835701320751403283/video/1",
+          "media_key": "7_1835701274052116480",
+          "start": 6,
+          "url": "https://t.co/Rsl7bf2j31"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835701320751403283",
+    "lang": "qme",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#goth https://t.co/Rsl7bf2j31"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1835701320751403283].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1835701320751403283",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1835701320751403283"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18300,
+        "height": 1280,
+        "media_key": "7_1835701274052116480",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1835701274052116480/pu/img/U_vBfEuWojuhAdjx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1835701274052116480/pu/vid/avc1/320x568/QPSQtIvmTtyxzh4i.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1835701274052116480/pu/vid/avc1/480x852/tFH7sE-PhtTv9OuI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1835701274052116480/pu/vid/avc1/720x1280/6RBCNtNuwd18d44s.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1835701274052116480/pu/pl/MiLmUd9dgzGGr4aY.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 💀 悲情诗人",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811770992915808257/RzDX1nk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7382,
+          "following_count": 134,
+          "like_count": 3954,
+          "listed_count": 19,
+          "tweet_count": 1914
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

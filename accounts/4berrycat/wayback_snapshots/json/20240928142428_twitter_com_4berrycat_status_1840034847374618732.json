@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1840034549734281216",
+        "3_1840034549742612483",
+        "3_1840034549700669444"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "1840034847374618732",
+    "created_at": "2024-09-28T14:24:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T15:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1840034847374618732"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "广州纹身"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tuy39vp6f1",
+          "end": 74,
+          "expanded_url": "https://twitter.com/4berrycat/status/1840034847374618732/photo/1",
+          "media_key": "3_1840034549734281216",
+          "start": 51,
+          "url": "https://t.co/tuy39vp6f1"
+        },
+        {
+          "display_url": "pic.x.com/tuy39vp6f1",
+          "end": 74,
+          "expanded_url": "https://twitter.com/4berrycat/status/1840034847374618732/photo/1",
+          "media_key": "3_1840034549742612483",
+          "start": 51,
+          "url": "https://t.co/tuy39vp6f1"
+        },
+        {
+          "display_url": "pic.x.com/tuy39vp6f1",
+          "end": 74,
+          "expanded_url": "https://twitter.com/4berrycat/status/1840034847374618732/photo/1",
+          "media_key": "3_1840034549700669444",
+          "start": 51,
+          "url": "https://t.co/tuy39vp6f1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840034847374618732",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#广州纹身 \n🖤这段时间想找我扎扎的宝请看这条🖤\n🖤可扎现稿可看p3下划预览🖤\n🖤欢迎私信评论咨询🖤 https://t.co/tuy39vp6f1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1840034847374618732].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1840034847374618732",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1840034847374618732"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1840034549734281216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYkdrI9bkAAKynL.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1840034549742612483",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYkdrI_asAMZjXV.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1840034549700669444",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYkdrI1asAQBFlQ.jpg",
+        "width": 196
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 💀 悲情诗人",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811770992915808257/RzDX1nk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7375,
+          "following_count": 137,
+          "like_count": 4035,
+          "listed_count": 19,
+          "tweet_count": 1931
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

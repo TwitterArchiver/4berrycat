@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1840432699527614464"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "1840432709283480006",
+    "created_at": "2024-09-29T16:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T17:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1840432709283480006"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 10,
+          "tag": "art"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qow3t0gkbm",
+          "end": 38,
+          "expanded_url": "https://twitter.com/4berrycat/status/1840432709283480006/photo/1",
+          "media_key": "3_1840432699527614464",
+          "start": 15,
+          "url": "https://t.co/qOW3t0gkbm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840432709283480006",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👁️🦷牙牙乐🦷👁️ #art https://t.co/qOW3t0gkbm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1840432709283480006].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1840432709283480006",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1840432709283480006"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1840432699527614464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYqHyghbUAARMt8.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 💀 悲情诗人",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811770992915808257/RzDX1nk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7381,
+          "following_count": 138,
+          "like_count": 4037,
+          "listed_count": 19,
+          "tweet_count": 1933
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

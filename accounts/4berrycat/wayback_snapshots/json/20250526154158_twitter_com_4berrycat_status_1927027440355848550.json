@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926709821056618497"
+      ],
+      "media_source_tweet_id": [
+        "1926709834247737493"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "1927027440355848550",
+    "created_at": "2025-05-26T15:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T16:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927027440355848550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3087942254",
+          "start": 3,
+          "username": "EdgyMuhgee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V0ZouzXB4m",
+          "end": 39,
+          "expanded_url": "https://x.com/EdgyMuhgee/status/1926709834247737493/photo/1",
+          "media_key": "3_1926709821056618497",
+          "start": 16,
+          "url": "https://t.co/V0ZouzXB4m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927027440355848550",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6330
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926709834247737493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EdgyMuhgee: https://t.co/V0ZouzXB4m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 364,
+        "media_key": "3_1926709821056618497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr0MX8VWEAEiON7.png",
+        "width": 568
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926709821056618497"
+          ],
+          "media_source_tweet_id": [
+            "1926709834247737493"
+          ]
+        },
+        "author_id": "1570856490654904320",
+        "conversation_id": "1927027440355848550",
+        "created_at": "2025-05-26T15:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T16:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927027440355848550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3087942254",
+              "start": 3,
+              "username": "EdgyMuhgee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0ZouzXB4m",
+              "end": 39,
+              "expanded_url": "https://x.com/EdgyMuhgee/status/1926709834247737493/photo/1",
+              "media_key": "3_1926709821056618497",
+              "start": 16,
+              "url": "https://t.co/V0ZouzXB4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927027440355848550",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6330
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926709834247737493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EdgyMuhgee: https://t.co/V0ZouzXB4m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926709821056618497"
+          ]
+        },
+        "author_id": "3087942254",
+        "conversation_id": "1926709834247737493",
+        "created_at": "2025-05-25T18:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T19:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926709834247737493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0ZouzXB4m",
+              "end": 23,
+              "expanded_url": "https://x.com/EdgyMuhgee/status/1926709834247737493/photo/1",
+              "media_key": "3_1926709821056618497",
+              "start": 0,
+              "url": "https://t.co/V0ZouzXB4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926709834247737493",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4839,
+          "impression_count": 1464043,
+          "like_count": 91848,
+          "quote_count": 123,
+          "reply_count": 66,
+          "retweet_count": 6330
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/V0ZouzXB4m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐 为自己写字的人𖤐 Hail Satan 𖤐流动性别•泛性恋𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7544,
+          "following_count": 202,
+          "like_count": 6765,
+          "listed_count": 20,
+          "media_count": 618,
+          "tweet_count": 2468
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-16T05:07:35.000Z",
+        "description": "how'd you find me",
+        "id": "3087942254",
+        "name": "scuf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923383307821088768/DkS3Vv52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41550,
+          "following_count": 1761,
+          "like_count": 42459,
+          "listed_count": 89,
+          "media_count": 3577,
+          "tweet_count": 10957
+        },
+        "username": "EdgyMuhgee",
+        "verified": false
+      }
+    ]
+  }
+}

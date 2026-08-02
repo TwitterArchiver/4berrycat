@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1936783711321956744",
+    "created_at": "2025-06-25T19:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T20:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937960441734672459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822652017241886720",
+          "start": 0,
+          "username": "dooropenatnight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937960441734672459",
+    "in_reply_to_user_id": "1822652017241886720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936783711321956744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dooropenatnight ！！啊啊啊啊重新刷到小银了🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936783657189912576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuDWeYWWMAAbNqj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1936783658020392961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuDWebcWUAEoFA7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1936783711321956744",
+        "created_at": "2025-06-25T19:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T20:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937960441734672459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822652017241886720",
+              "start": 0,
+              "username": "dooropenatnight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937960441734672459",
+        "in_reply_to_user_id": "1822652017241886720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936783711321956744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dooropenatnight ！！啊啊啊啊重新刷到小银了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936783657189912576",
+            "3_1936783658020392961"
+          ]
+        },
+        "author_id": "1822652017241886720",
+        "conversation_id": "1936783711321956744",
+        "created_at": "2025-06-22T13:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T14:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936783711321956744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CNTbLM3T35",
+              "end": 23,
+              "expanded_url": "https://x.com/dooropenatnight/status/1936783711321956744/photo/1",
+              "media_key": "3_1936783657189912576",
+              "start": 0,
+              "url": "https://t.co/CNTbLM3T35"
+            },
+            {
+              "display_url": "pic.x.com/CNTbLM3T35",
+              "end": 23,
+              "expanded_url": "https://x.com/dooropenatnight/status/1936783711321956744/photo/1",
+              "media_key": "3_1936783658020392961",
+              "start": 0,
+              "url": "https://t.co/CNTbLM3T35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936783711321956744",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 802,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CNTbLM3T35"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "這裡是貓的日記本📓CHINESE TATTOO ARTIST𖤐 為自己寫字的人𖤐 Hail Satan 𖤐流動性別•泛性戀𖤐S/dom 𖤐日本語まだまだ勉強中 𖤐 Learning basic English",
+        "id": "1570856490654904320",
+        "location": "黒猫様の古城",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7594,
+          "following_count": 224,
+          "like_count": 7192,
+          "listed_count": 19,
+          "media_count": 646,
+          "tweet_count": 2525
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T15:11:43.000Z",
+        "description": "我是银",
+        "id": "1822652017241886720",
+        "name": "金属制廉价银河",
+        "pinned_tweet_id": "1895088378670100968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927763468893208577/8M5CjLp8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 108,
+          "like_count": 2367,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 346
+        },
+        "username": "dooropenatnight",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1788946573919240496",
+    "created_at": "2024-05-10T14:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T15:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1788946573919240496"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1788946573919240496",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不许笑啊！！！不许开心啊！！！闭嘴！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1788946573919240496",
+        "created_at": "2024-05-10T14:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T15:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788946573919240496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1788946573919240496",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不许笑啊！！！不许开心啊！！！闭嘴！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "黑猫化身的吸血鬼公主🕸️悲情詩人🩸恋血 断肢癖 dom/s🚪177/277除了互关都要门槛👁️爱我就把灵魂和肉体都献给我",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸眠的黑貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722655721647640576/VZPRSSCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7516,
+          "following_count": 120,
+          "like_count": 3187,
+          "listed_count": 18,
+          "tweet_count": 1840
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

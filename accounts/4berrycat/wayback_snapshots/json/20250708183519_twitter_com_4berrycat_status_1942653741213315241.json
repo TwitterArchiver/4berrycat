@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1942653677837107201"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "1942653741213315241",
+    "created_at": "2025-07-08T18:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T19:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942653741213315241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4e0o6dmJCd",
+          "end": 68,
+          "expanded_url": "https://x.com/4berrycat/status/1942653741213315241/video/1",
+          "media_key": "13_1942653677837107201",
+          "start": 45,
+          "url": "https://t.co/4e0o6dmJCd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942653741213315241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "酔っ払ったけど、歌ってるうちに気持ちが乗ってきた（日本語は得意じゃないので）(＞人＜;) https://t.co/4e0o6dmJCd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17431,
+        "height": 960,
+        "media_key": "13_1942653677837107201",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1942653677837107201/img/CN-3VxVIzOQy52YY.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942653677837107201/vid/avc1/320x568/2mPlyxicGqVF4xqS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942653677837107201/vid/avc1/480x852/XWaF4DY3YCujdcY2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942653677837107201/vid/avc1/540x960/2MmDg6JJHXweL6LH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1942653677837107201/pl/jofDsfD8GIZ1osyd.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1942653677837107201"
+          ]
+        },
+        "author_id": "1570856490654904320",
+        "conversation_id": "1942653741213315241",
+        "created_at": "2025-07-08T18:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T19:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942653741213315241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4e0o6dmJCd",
+              "end": 68,
+              "expanded_url": "https://x.com/4berrycat/status/1942653741213315241/video/1",
+              "media_key": "13_1942653677837107201",
+              "start": 45,
+              "url": "https://t.co/4e0o6dmJCd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942653741213315241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酔っ払ったけど、歌ってるうちに気持ちが乗ってきた（日本語は得意じゃないので）(＞人＜;) https://t.co/4e0o6dmJCd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "這裡是黑貓的日記本📓CHINESE TATTOO ARTIST𖤐 為自己寫字的人𖤐 Hail Satan 𖤐流動性別•泛性戀𖤐S/dom 𖤐日本語まだまだ勉強中 𖤐 Learning basic English",
+        "id": "1570856490654904320",
+        "location": "黒猫様の古城",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7612,
+          "following_count": 229,
+          "like_count": 7338,
+          "listed_count": 19,
+          "media_count": 659,
+          "tweet_count": 2542
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

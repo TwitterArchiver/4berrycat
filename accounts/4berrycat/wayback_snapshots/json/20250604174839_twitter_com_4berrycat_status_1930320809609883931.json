@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930320786608533505",
+        "3_1930320786604339200",
+        "3_1930320786591756297"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "1930320809609883931",
+    "created_at": "2025-06-04T17:48:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T18:48:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930320809609883931"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/alWOEjlyRJ",
+          "end": 119,
+          "expanded_url": "https://x.com/4berrycat/status/1930320809609883931/photo/1",
+          "media_key": "3_1930320786608533505",
+          "start": 96,
+          "url": "https://t.co/alWOEjlyRJ"
+        },
+        {
+          "display_url": "pic.x.com/alWOEjlyRJ",
+          "end": 119,
+          "expanded_url": "https://x.com/4berrycat/status/1930320809609883931/photo/1",
+          "media_key": "3_1930320786604339200",
+          "start": 96,
+          "url": "https://t.co/alWOEjlyRJ"
+        },
+        {
+          "display_url": "pic.x.com/alWOEjlyRJ",
+          "end": 119,
+          "expanded_url": "https://x.com/4berrycat/status/1930320809609883931/photo/1",
+          "media_key": "3_1930320786591756297",
+          "start": 96,
+          "url": "https://t.co/alWOEjlyRJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930320809609883931",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我需要多巴胺所以我一直在看6.1号的演出视频🥹🥹🥹\nこの日が永遠に続いてほしい。辛い毎日に向き合いたくない。楽しい気持ちでいたい！！本当に辛い、辛い、辛い、本当に辛い… 😭 また会えるよね？ https://t.co/alWOEjlyRJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1930320786608533505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsnghzRasAEW2z0.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1930320786604339200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsnghzQasAAdIKm.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1930320786591756297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsnghzNasAkCQJn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930320786608533505",
+            "3_1930320786604339200",
+            "3_1930320786591756297"
+          ]
+        },
+        "author_id": "1570856490654904320",
+        "conversation_id": "1930320809609883931",
+        "created_at": "2025-06-04T17:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T18:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930320809609883931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/alWOEjlyRJ",
+              "end": 119,
+              "expanded_url": "https://x.com/4berrycat/status/1930320809609883931/photo/1",
+              "media_key": "3_1930320786608533505",
+              "start": 96,
+              "url": "https://t.co/alWOEjlyRJ"
+            },
+            {
+              "display_url": "pic.x.com/alWOEjlyRJ",
+              "end": 119,
+              "expanded_url": "https://x.com/4berrycat/status/1930320809609883931/photo/1",
+              "media_key": "3_1930320786604339200",
+              "start": 96,
+              "url": "https://t.co/alWOEjlyRJ"
+            },
+            {
+              "display_url": "pic.x.com/alWOEjlyRJ",
+              "end": 119,
+              "expanded_url": "https://x.com/4berrycat/status/1930320809609883931/photo/1",
+              "media_key": "3_1930320786591756297",
+              "start": 96,
+              "url": "https://t.co/alWOEjlyRJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930320809609883931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要多巴胺所以我一直在看6.1号的演出视频🥹🥹🥹\nこの日が永遠に続いてほしい。辛い毎日に向き合いたくない。楽しい気持ちでいたい！！本当に辛い、辛い、辛い、本当に辛い… 😭 また会えるよね？ https://t.co/alWOEjlyRJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐 为自己写字的人𖤐 Hail Satan 𖤐流动性别•泛性恋𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7546,
+          "following_count": 210,
+          "like_count": 6901,
+          "listed_count": 20,
+          "media_count": 627,
+          "tweet_count": 2484
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

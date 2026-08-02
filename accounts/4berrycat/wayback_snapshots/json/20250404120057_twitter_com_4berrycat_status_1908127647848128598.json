@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1908127565262295040"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "1908127647848128598",
+    "created_at": "2025-04-04T12:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T13:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908127647848128598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1805172773607854080",
+          "start": 0,
+          "username": "nofound040404"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Y1Sg4ulZi",
+          "end": 38,
+          "expanded_url": "https://x.com/4berrycat/status/1908127647848128598/video/1",
+          "media_key": "13_1908127565262295040",
+          "start": 15,
+          "url": "https://t.co/2Y1Sg4ulZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908127647848128598",
+    "in_reply_to_user_id": "1805172773607854080",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@nofound040404 https://t.co/2Y1Sg4ulZi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1908127647848128598].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1908127647848128598",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1908127647848128598"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6175,
+        "height": 1280,
+        "media_key": "13_1908127565262295040",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1908127565262295040/img/NFU1NlpkCsezVyNH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908127565262295040/vid/avc1/320x568/0Vt0FhFUW69Y20_e.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908127565262295040/vid/avc1/480x852/gRsvg7_VCqDaO6xX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908127565262295040/vid/avc1/720x1280/zgDdeCMaUQXc67ZQ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1908127565262295040/pl/NtP-57UOV3BSZhde.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐 为自己写字的人𖤐 Hail Satan 𖤐流动性别•泛性恋𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7414,
+          "following_count": 196,
+          "like_count": 6161,
+          "listed_count": 20,
+          "media_count": 600,
+          "tweet_count": 2342
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T09:35:19.000Z",
+        "description": "你总想为我打伞 但你的眼泪才是我人生的大雨",
+        "id": "1805172773607854080",
+        "location": "我会带您一起走的",
+        "name": "人格组织碎片",
+        "pinned_tweet_id": "1805173478372540456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905121699588403200/81cXOgO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 45,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 35
+        },
+        "username": "nofound040404",
+        "verified": false
+      }
+    ]
+  }
+}

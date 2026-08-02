@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1933787897687318767",
+    "created_at": "2025-06-14T07:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T08:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933787897687318767"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/4berrycat/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/4berrycat/status/1928421877313073517",
+          "start": 15,
+          "url": "https://t.co/eVNhr9I4z2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933787897687318767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928421877313073517",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这两张特别可爱😼\n给我点赞🫶 https://t.co/eVNhr9I4z2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1928421856052420609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsMhdfsaoAE32d8.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1928421856413171713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsMhdhCbQAEI8CN.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1933787897687318767",
+        "created_at": "2025-06-14T07:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T08:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933787897687318767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4berrycat/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/4berrycat/status/1928421877313073517",
+              "start": 15,
+              "url": "https://t.co/eVNhr9I4z2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933787897687318767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928421877313073517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这两张特别可爱😼\n给我点赞🫶 https://t.co/eVNhr9I4z2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928421856052420609",
+            "3_1928421856413171713"
+          ]
+        },
+        "author_id": "1570856490654904320",
+        "conversation_id": "1928421877313073517",
+        "created_at": "2025-05-30T12:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T13:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928421877313073517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4nktJOEQVC",
+              "end": 25,
+              "expanded_url": "https://x.com/4berrycat/status/1928421877313073517/photo/1",
+              "media_key": "3_1928421856052420609",
+              "start": 2,
+              "url": "https://t.co/4nktJOEQVC"
+            },
+            {
+              "display_url": "pic.x.com/4nktJOEQVC",
+              "end": 25,
+              "expanded_url": "https://x.com/4berrycat/status/1928421877313073517/photo/1",
+              "media_key": "3_1928421856413171713",
+              "start": 2,
+              "url": "https://t.co/4nktJOEQVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928421877313073517",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1778,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🪦 https://t.co/4nktJOEQVC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "這裡是貓的日記本📓TATTOO ARTIST𖤐 為自己寫字的人𖤐 Hail Satan 𖤐流動性別•泛性戀𖤐S/dom 𖤐日本語まだまだ勉強中 𖤐 Learning basic English",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7571,
+          "following_count": 217,
+          "like_count": 7007,
+          "listed_count": 19,
+          "media_count": 630,
+          "tweet_count": 2499
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

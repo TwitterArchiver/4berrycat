@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1931323083782029691",
+    "created_at": "2025-06-07T12:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T13:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931323083782029691"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931323083782029691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我骨子里是彻头彻尾的E人，渴望人群与联结\n但恐惧却抓住了我：害怕踏入陌生社交的漩涡，害怕费力维系初生的关系，更害怕在那一双双注视的眼睛里，暴露一丝笨拙或不完美——那个不够闪亮的真实自己\n渴望触碰，却在靠近时退缩\n灯火明明在跳，我却停在阴影里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1931323083782029691",
+        "created_at": "2025-06-07T12:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T13:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931323083782029691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931323083782029691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我骨子里是彻头彻尾的E人，渴望人群与联结\n但恐惧却抓住了我：害怕踏入陌生社交的漩涡，害怕费力维系初生的关系，更害怕在那一双双注视的眼睛里，暴露一丝笨拙或不完美——那个不够闪亮的真实自己\n渴望触碰，却在靠近时退缩\n灯火明明在跳，我却停在阴影里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐 为自己写字的人𖤐 Hail Satan 𖤐流动性别•泛性恋𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7547,
+          "following_count": 211,
+          "like_count": 6918,
+          "listed_count": 20,
+          "media_count": 627,
+          "tweet_count": 2486
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

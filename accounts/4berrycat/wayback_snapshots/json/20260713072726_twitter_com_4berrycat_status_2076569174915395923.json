@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076569104308391936"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "2076569174915395923",
+    "created_at": "2026-07-13T07:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076569174915395923"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uNzKWlOu61",
+          "end": 40,
+          "expanded_url": "https://x.com/4berrycat/status/2076569174915395923/video/1",
+          "media_key": "13_2076569104308391936",
+          "start": 17,
+          "url": "https://t.co/uNzKWlOu61"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076569174915395923",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "A bouncy jiggle! https://t.co/uNzKWlOu61"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8008,
+        "height": 720,
+        "media_key": "13_2076569104308391936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076569104308391936/img/BeQ5_gk1yFs2T8wC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076569104308391936/vid/avc1/320x320/akc-8Y8JcS5iVR6W.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076569104308391936/vid/avc1/540x540/neLxXacYrB96ZAvR.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076569104308391936/vid/avc1/720x720/QQQDA5eeqc-UnLc7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076569104308391936/pl/s3bR4ZNHlbEFWZN5.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076569104308391936"
+          ]
+        },
+        "author_id": "1570856490654904320",
+        "conversation_id": "2076569174915395923",
+        "created_at": "2026-07-13T07:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076569174915395923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNzKWlOu61",
+              "end": 40,
+              "expanded_url": "https://x.com/4berrycat/status/2076569174915395923/video/1",
+              "media_key": "13_2076569104308391936",
+              "start": 17,
+              "url": "https://t.co/uNzKWlOu61"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076569174915395923",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "A bouncy jiggle! https://t.co/uNzKWlOu61"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "這裡是黑貓的日記本📓CHINESE TATTOO ARTIST𖤐 為自己寫字的人𖤐 日本語まだまだ勉強中 𖤐 Learning basic English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/du7lucky?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/du7lucky?igsh=MWFrZHhnb2pjMjRq&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/khAu6pPqpL"
+              }
+            ]
+          }
+        },
+        "id": "1570856490654904320",
+        "location": "黒猫様の古城",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8364,
+          "following_count": 275,
+          "like_count": 9734,
+          "listed_count": 20,
+          "media_count": 797,
+          "tweet_count": 2765
+        },
+        "url": "https://t.co/khAu6pPqpL",
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

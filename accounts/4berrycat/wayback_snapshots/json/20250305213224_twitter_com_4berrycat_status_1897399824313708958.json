@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1897399809734254592"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Body Art",
+          "id": "854712713510965248",
+          "name": "Body art"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      }
+    ],
+    "conversation_id": "1897399824313708958",
+    "created_at": "2025-03-05T21:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T22:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897399824313708958"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 36,
+          "tag": "tattoo"
+        },
+        {
+          "end": 54,
+          "start": 44,
+          "tag": "tattooart"
+        },
+        {
+          "end": 62,
+          "start": 55,
+          "tag": "gothic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z8CntfMBU5",
+          "end": 86,
+          "expanded_url": "https://x.com/4berrycat/status/1897399824313708958/photo/1",
+          "media_key": "3_1897399809734254592",
+          "start": 63,
+          "url": "https://t.co/Z8CntfMBU5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897399824313708958",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "I'm showing off my tattoo 🖤\n🩸我的纹身展示\n#tattoo #tattooart #gothic https://t.co/Z8CntfMBU5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1897399824313708958].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1897399824313708958",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1897399824313708958"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1897399809734254592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlTrEvgaoAAMCJC.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐悲情诗人𖤐 Hail Satan 𖤐日常微信门槛277只是好友位 𖤐流动性别•泛性恋𖤐死神格雷尔的主人和爱人𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7364,
+          "following_count": 179,
+          "like_count": 5708,
+          "listed_count": 21,
+          "media_count": 583,
+          "tweet_count": 2263
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

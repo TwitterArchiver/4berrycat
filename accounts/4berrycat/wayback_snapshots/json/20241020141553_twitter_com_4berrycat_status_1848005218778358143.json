@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1847917442745717174",
+    "created_at": "2024-10-20T14:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T15:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848005218778358143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1476471903778848768",
+          "start": 0,
+          "username": "Jiaowobaobao123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1848005218778358143",
+    "in_reply_to_user_id": "1476471903778848768",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847917442745717174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiaowobaobao123 wtf这他吗是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1847917442745717174",
+        "created_at": "2024-10-20T14:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T15:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848005218778358143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1476471903778848768",
+              "start": 0,
+              "username": "Jiaowobaobao123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848005218778358143",
+        "in_reply_to_user_id": "1476471903778848768",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847917442745717174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiaowobaobao123 wtf这他吗是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1847917390652391424"
+          ]
+        },
+        "author_id": "1476471903778848768",
+        "conversation_id": "1847917442745717174",
+        "created_at": "2024-10-20T08:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T09:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847917442745717174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9HqdYrZVcH",
+              "end": 32,
+              "expanded_url": "https://x.com/Jiaowobaobao123/status/1847917442745717174/video/1",
+              "media_key": "13_1847917390652391424",
+              "start": 9,
+              "url": "https://t.co/9HqdYrZVcH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847917442745717174",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2358,
+          "impression_count": 537932,
+          "like_count": 4198,
+          "quote_count": 65,
+          "reply_count": 149,
+          "retweet_count": 397
+        },
+        "reply_settings": "everyone",
+        "text": "男士勿点，切记。 https://t.co/9HqdYrZVcH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 💀 悲情诗人",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811770992915808257/RzDX1nk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7366,
+          "following_count": 148,
+          "like_count": 4204,
+          "listed_count": 19,
+          "tweet_count": 1979
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-30T08:35:25.000Z",
+        "description": "#OKX Web3钱包支持100公链+ 提供钱包、多链swap、NFT市场、DeFi挖矿。邀请链接 https://t.co/o3OiL4aci8。。。。。#binance 邀请链接 https://t.co/tyM2OKROz7 均有20%返佣",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "OKX"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "tag": "binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/join/6542537",
+                "end": 73,
+                "expanded_url": "https://www.okx.com/join/6542537",
+                "start": 50,
+                "url": "https://t.co/o3OiL4aci8"
+              },
+              {
+                "display_url": "suitechsui.club/zh-CN/join?ref…",
+                "end": 115,
+                "expanded_url": "https://www.suitechsui.club/zh-CN/join?ref=FFUP4YMB",
+                "start": 92,
+                "url": "https://t.co/tyM2OKROz7"
+              }
+            ]
+          }
+        },
+        "id": "1476471903778848768",
+        "name": "老俞.eth",
+        "pinned_tweet_id": "1834387505367712063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1521128366325190657/UOYznItm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122924,
+          "following_count": 1376,
+          "like_count": 9540,
+          "listed_count": 832,
+          "tweet_count": 18121
+        },
+        "username": "Jiaowobaobao123",
+        "verified": true
+      }
+    ]
+  }
+}

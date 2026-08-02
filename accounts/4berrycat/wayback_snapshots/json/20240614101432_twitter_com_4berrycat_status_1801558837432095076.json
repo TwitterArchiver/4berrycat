@@ -1,0 +1,281 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1801558827491569664"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "1801558837432095076",
+    "created_at": "2024-06-14T10:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T11:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1801558837432095076"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 1,
+          "tag": "art"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/csnjN49f7d",
+          "end": 29,
+          "expanded_url": "https://twitter.com/4berrycat/status/1801558837432095076/photo/1",
+          "media_key": "3_1801558827491569664",
+          "start": 6,
+          "url": "https://t.co/csnjN49f7d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801558837432095076",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "…#art https://t.co/csnjN49f7d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1801558827491569664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQBsNWKasAAdPjH.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801558827491569664"
+          ]
+        },
+        "author_id": "1570856490654904320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1801558837432095076",
+        "created_at": "2024-06-14T10:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T11:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801558837432095076"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 1,
+              "tag": "art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/csnjN49f7d",
+              "end": 29,
+              "expanded_url": "https://twitter.com/4berrycat/status/1801558837432095076/photo/1",
+              "media_key": "3_1801558827491569664",
+              "start": 6,
+              "url": "https://t.co/csnjN49f7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801558837432095076",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "…#art https://t.co/csnjN49f7d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "黑猫化身的吸血鬼公主🕸️悲情詩人🩸恋血 断肢癖 dom/s🚪177/277除了互关都要门槛👁️爱我就把灵魂和肉体都献给我",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸眠的黑貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722655721647640576/VZPRSSCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7606,
+          "following_count": 125,
+          "like_count": 3476,
+          "listed_count": 20,
+          "tweet_count": 1893
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

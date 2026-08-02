@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1909890372903501824"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "1909890381694779685",
+    "created_at": "2025-04-09T08:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T09:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909890381694779685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kIDedoOsud",
+          "end": 34,
+          "expanded_url": "https://x.com/4berrycat/status/1909890381694779685/photo/1",
+          "media_key": "3_1909890372903501824",
+          "start": 11,
+          "url": "https://t.co/kIDedoOsud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909890381694779685",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去戒毒了我再也不碰了 https://t.co/kIDedoOsud"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1909890381694779685].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1909890381694779685",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1909890381694779685"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1909890372903501824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoFLLNTaAAARTVT.jpg",
+        "width": 768
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐 为自己写字的人𖤐 Hail Satan 𖤐流动性别•泛性恋𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7410,
+          "following_count": 196,
+          "like_count": 6245,
+          "listed_count": 20,
+          "media_count": 604,
+          "tweet_count": 2359
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946981619304181760",
+        "3_1946981619098894336",
+        "3_1946981619325177859"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Body Art",
+          "id": "854712713510965248",
+          "name": "Body art"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      }
+    ],
+    "conversation_id": "1946981631354687945",
+    "created_at": "2025-07-20T17:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T18:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946981631354687945"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 13,
+          "start": 6,
+          "tag": "tattoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AONO84TpzG",
+          "end": 37,
+          "expanded_url": "https://x.com/4berrycat/status/1946981631354687945/photo/1",
+          "media_key": "3_1946981619304181760",
+          "start": 14,
+          "url": "https://t.co/AONO84TpzG"
+        },
+        {
+          "display_url": "pic.x.com/AONO84TpzG",
+          "end": 37,
+          "expanded_url": "https://x.com/4berrycat/status/1946981631354687945/photo/1",
+          "media_key": "3_1946981619098894336",
+          "start": 14,
+          "url": "https://t.co/AONO84TpzG"
+        },
+        {
+          "display_url": "pic.x.com/AONO84TpzG",
+          "end": 37,
+          "expanded_url": "https://x.com/4berrycat/status/1946981631354687945/photo/1",
+          "media_key": "3_1946981619325177859",
+          "start": 14,
+          "url": "https://t.co/AONO84TpzG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946981631354687945",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🍰👁️🩸💕\n#tattoo https://t.co/AONO84TpzG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946981619304181760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwURd5rXMAAiisM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1946981619098894336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwURd46awAAB87q.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1946981619325177859",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwURd5wXkAMnhy-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946981619304181760",
+            "3_1946981619098894336",
+            "3_1946981619325177859"
+          ]
+        },
+        "author_id": "1570856490654904320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          }
+        ],
+        "conversation_id": "1946981631354687945",
+        "created_at": "2025-07-20T17:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T18:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946981631354687945"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 6,
+              "tag": "tattoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AONO84TpzG",
+              "end": 37,
+              "expanded_url": "https://x.com/4berrycat/status/1946981631354687945/photo/1",
+              "media_key": "3_1946981619304181760",
+              "start": 14,
+              "url": "https://t.co/AONO84TpzG"
+            },
+            {
+              "display_url": "pic.x.com/AONO84TpzG",
+              "end": 37,
+              "expanded_url": "https://x.com/4berrycat/status/1946981631354687945/photo/1",
+              "media_key": "3_1946981619098894336",
+              "start": 14,
+              "url": "https://t.co/AONO84TpzG"
+            },
+            {
+              "display_url": "pic.x.com/AONO84TpzG",
+              "end": 37,
+              "expanded_url": "https://x.com/4berrycat/status/1946981631354687945/photo/1",
+              "media_key": "3_1946981619325177859",
+              "start": 14,
+              "url": "https://t.co/AONO84TpzG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946981631354687945",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🍰👁️🩸💕\n#tattoo https://t.co/AONO84TpzG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "這裡是黑貓的日記本📓CHINESE TATTOO ARTIST𖤐 為自己寫字的人𖤐 Hail Satan 𖤐流動性別•泛性戀𖤐S/dom 𖤐日本語まだまだ勉強中 𖤐 Learning basic English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/du7lucky?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/du7lucky?igsh=MWFrZHhnb2pjMjRq&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/khAu6pPqpL"
+              }
+            ]
+          }
+        },
+        "id": "1570856490654904320",
+        "location": "黒猫様の古城",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7631,
+          "following_count": 231,
+          "like_count": 7432,
+          "listed_count": 19,
+          "media_count": 670,
+          "tweet_count": 2559
+        },
+        "url": "https://t.co/khAu6pPqpL",
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

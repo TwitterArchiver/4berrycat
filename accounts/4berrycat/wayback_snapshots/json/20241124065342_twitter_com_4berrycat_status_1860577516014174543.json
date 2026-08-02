@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1860258244972937658",
+    "created_at": "2024-11-24T06:53:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T07:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860577516014174543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596143777609314304",
+          "start": 0,
+          "username": "whereislove1217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860577516014174543",
+    "in_reply_to_user_id": "1596143777609314304",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860461028489986421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whereislove1217 🖤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1860258244972937658",
+        "created_at": "2024-11-24T06:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T07:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860577516014174543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596143777609314304",
+              "start": 0,
+              "username": "whereislove1217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860577516014174543",
+        "in_reply_to_user_id": "1596143777609314304",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860461028489986421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whereislove1217 🖤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596143777609314304",
+        "conversation_id": "1860258244972937658",
+        "created_at": "2024-11-23T23:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T00:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860461028489986421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1570856490654904320",
+              "start": 0,
+              "username": "4berrycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860461028489986421",
+        "in_reply_to_user_id": "1570856490654904320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860258244972937658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4berrycat 太帅了行走的艺术品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 💀 悲情诗人",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811770992915808257/RzDX1nk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7287,
+          "following_count": 155,
+          "like_count": 4564,
+          "listed_count": 19,
+          "tweet_count": 2049
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T14:08:34.000Z",
+        "description": "",
+        "id": "1596143777609314304",
+        "name": "爱愛瑷僾靉",
+        "pinned_tweet_id": "1608582409620180992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729866879391649792/eEW-65kL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 11,
+          "like_count": 1210,
+          "listed_count": 1,
+          "tweet_count": 235
+        },
+        "username": "whereislove1217",
+        "verified": false
+      }
+    ]
+  }
+}

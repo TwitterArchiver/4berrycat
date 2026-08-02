@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1945890815240228864"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Body Art",
+          "id": "854712713510965248",
+          "name": "Body art"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      }
+    ],
+    "conversation_id": "1945890883012030821",
+    "created_at": "2025-07-17T16:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T17:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945890883012030821"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 7,
+          "tag": "tattoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LdPKIcuxlV",
+          "end": 38,
+          "expanded_url": "https://x.com/4berrycat/status/1945890883012030821/video/1",
+          "media_key": "13_1945890815240228864",
+          "start": 15,
+          "url": "https://t.co/LdPKIcuxlV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945890883012030821",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 67,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "reply_settings": "everyone",
+    "text": "翻糖小蛋糕🧁\n#tattoo https://t.co/LdPKIcuxlV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1945890883012030821].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1945890883012030821",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1945890883012030821"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6966,
+        "height": 1280,
+        "media_key": "13_1945890815240228864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1945890815240228864/img/xIPIYZ21e0W_zE99.jpg",
+        "public_metrics": {
+          "view_count": 16
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945890815240228864/vid/avc1/320x568/jg6oSK70YEWoSxy3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945890815240228864/vid/avc1/480x852/-A48r8K778IPxfkL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945890815240228864/vid/avc1/720x1280/JomezFOyJvbrUj0V.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1945890815240228864/pl/dk3U9ZJ3kOwtwcDd.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "這裡是黑貓的日記本📓CHINESE TATTOO ARTIST𖤐 為自己寫字的人𖤐 Hail Satan 𖤐流動性別•泛性戀𖤐S/dom 𖤐日本語まだまだ勉強中 𖤐 Learning basic English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/du7lucky?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/du7lucky?igsh=MWFrZHhnb2pjMjRq&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/khAu6pPqpL"
+              }
+            ]
+          }
+        },
+        "id": "1570856490654904320",
+        "location": "黒猫様の古城",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7634,
+          "following_count": 231,
+          "like_count": 7412,
+          "listed_count": 19,
+          "media_count": 666,
+          "tweet_count": 2555
+        },
+        "url": "https://t.co/khAu6pPqpL",
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

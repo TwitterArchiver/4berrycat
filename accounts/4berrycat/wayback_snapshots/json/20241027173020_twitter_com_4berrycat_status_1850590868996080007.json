@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1780247017878704128"
+      ],
+      "media_source_tweet_id": [
+        "1780247043874996516"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "1850590868996080007",
+    "created_at": "2024-10-27T17:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T18:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850590868996080007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1660555089222963200",
+          "start": 3,
+          "username": "hirari3i"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/keSnigXA35",
+          "end": 37,
+          "expanded_url": "https://x.com/hirari3ikeda/status/1780247043874996516/video/1",
+          "media_key": "7_1780247017878704128",
+          "start": 14,
+          "url": "https://t.co/keSnigXA35"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850590868996080007",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1780247043874996516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hirari3i: https://t.co/keSnigXA35"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2733,
+        "height": 1280,
+        "media_key": "7_1780247017878704128",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1780247017878704128/pu/img/lYcW_8O-rSO4TUK6.jpg",
+        "public_metrics": {
+          "view_count": 2063
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1780247017878704128/pu/vid/avc1/320x568/ggZ5T7khCghD1ijr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1780247017878704128/pu/vid/avc1/480x852/cH3qgfDUZ_JeIP4K.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1780247017878704128/pu/vid/avc1/720x1280/tprk6Zv2ThZxwfHY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1780247017878704128/pu/pl/cgb49hRtPxWrQCPB.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1780247017878704128"
+          ],
+          "media_source_tweet_id": [
+            "1780247043874996516"
+          ]
+        },
+        "author_id": "1570856490654904320",
+        "conversation_id": "1850590868996080007",
+        "created_at": "2024-10-27T17:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T18:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850590868996080007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1660555089222963200",
+              "start": 3,
+              "username": "hirari3i"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/keSnigXA35",
+              "end": 37,
+              "expanded_url": "https://x.com/hirari3ikeda/status/1780247043874996516/video/1",
+              "media_key": "7_1780247017878704128",
+              "start": 14,
+              "url": "https://t.co/keSnigXA35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850590868996080007",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1780247043874996516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hirari3i: https://t.co/keSnigXA35"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1780247017878704128"
+          ]
+        },
+        "author_id": "1660555089222963200",
+        "conversation_id": "1780247043874996516",
+        "created_at": "2024-04-16T14:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-16T15:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1780247043874996516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/keSnigXA35",
+              "end": 23,
+              "expanded_url": "https://x.com/hirari3ikeda/status/1780247043874996516/video/1",
+              "media_key": "7_1780247017878704128",
+              "start": 0,
+              "url": "https://t.co/keSnigXA35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1780247043874996516",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 8155,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/keSnigXA35"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 💀 悲情诗人",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811770992915808257/RzDX1nk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7351,
+          "following_count": 149,
+          "like_count": 4281,
+          "listed_count": 19,
+          "tweet_count": 1995
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T07:56:14.000Z",
+        "description": "ひらりの分霊箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/hilaryikeda",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/hilaryikeda",
+                "start": 0,
+                "url": "https://t.co/b5NGl55LX9"
+              }
+            ]
+          }
+        },
+        "id": "1660555089222963200",
+        "name": "hirariωi",
+        "pinned_tweet_id": "1718334603482820787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661028001444925441/Ja2XjhV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2662,
+          "following_count": 80,
+          "like_count": 125,
+          "listed_count": 5,
+          "tweet_count": 310
+        },
+        "url": "https://t.co/b5NGl55LX9",
+        "username": "hirari3i",
+        "verified": false
+      }
+    ]
+  }
+}

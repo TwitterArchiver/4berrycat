@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1991226091361476982",
+    "created_at": "2025-11-19T19:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T20:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991226091361476982"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "尸貓’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1kvJp…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1kvJpMjqBvaxE",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1991226093110464512/jcXt9l8r?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1991226093110464512/jcXt9l8r?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 随便聊聊天",
+          "unwound_url": "https://twitter.com/i/spaces/1kvJpMjqBvaxE/peek",
+          "url": "https://t.co/PxOviYf2A6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991226091361476982",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/PxOviYf2A6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1991226091361476982",
+        "created_at": "2025-11-19T19:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T20:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991226091361476982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "尸貓’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1kvJp…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1kvJpMjqBvaxE",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1991226093110464512/jcXt9l8r?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1991226093110464512/jcXt9l8r?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 随便聊聊天",
+              "unwound_url": "https://twitter.com/i/spaces/1kvJpMjqBvaxE/peek",
+              "url": "https://t.co/PxOviYf2A6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991226091361476982",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PxOviYf2A6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "這裡是黑貓的日記本📓CHINESE TATTOO ARTIST𖤐 為自己寫字的人𖤐 Hail Satan 𖤐流動性別•泛性戀𖤐S/dom 𖤐日本語まだまだ勉強中 𖤐 Learning basic English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/du7lucky?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/du7lucky?igsh=MWFrZHhnb2pjMjRq&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/khAu6pPqpL"
+              }
+            ]
+          }
+        },
+        "id": "1570856490654904320",
+        "location": "黒猫様の古城",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7729,
+          "following_count": 258,
+          "like_count": 7908,
+          "listed_count": 20,
+          "media_count": 753,
+          "tweet_count": 2675
+        },
+        "url": "https://t.co/khAu6pPqpL",
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

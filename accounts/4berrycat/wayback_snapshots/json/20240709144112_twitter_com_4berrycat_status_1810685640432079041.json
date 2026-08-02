@@ -1,0 +1,283 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1810176532629135360"
+      ],
+      "media_source_tweet_id": [
+        "1810176987467833541"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1810685640432079041",
+    "created_at": "2024-07-09T14:41:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-09T15:41:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810685640432079041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693450364341948416",
+          "start": 3,
+          "username": "igeekbb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/qxNbZa2fVm",
+          "end": 53,
+          "expanded_url": "https://twitter.com/igeekbb/status/1810176987467833541/video/1",
+          "media_key": "7_1810176532629135360",
+          "start": 30,
+          "url": "https://t.co/qxNbZa2fVm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810685640432079041",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 385
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810176987467833541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @igeekbb: 云南菌子中毒后大概就是这种感觉吧 https://t.co/qxNbZa2fVm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21546,
+        "height": 996,
+        "media_key": "7_1810176532629135360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1810176532629135360/pu/img/7pRgXBBDPt8TnBks.jpg",
+        "public_metrics": {
+          "view_count": 358614
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1810176532629135360/pu/vid/avc1/320x442/EMq4k_42jEXMpeLT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1810176532629135360/pu/vid/avc1/480x664/ifgLvdPL3q65pLh3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1810176532629135360/pu/vid/avc1/720x996/MQvw5CEcM3Rm1f7s.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1810176532629135360/pu/pl/FE23433GERmYoqJx.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1810176532629135360"
+          ],
+          "media_source_tweet_id": [
+            "1810176987467833541"
+          ]
+        },
+        "author_id": "1570856490654904320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1810685640432079041",
+        "created_at": "2024-07-09T14:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T15:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810685640432079041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693450364341948416",
+              "start": 3,
+              "username": "igeekbb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/qxNbZa2fVm",
+              "end": 53,
+              "expanded_url": "https://twitter.com/igeekbb/status/1810176987467833541/video/1",
+              "media_key": "7_1810176532629135360",
+              "start": 30,
+              "url": "https://t.co/qxNbZa2fVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810685640432079041",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 385
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810176987467833541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @igeekbb: 云南菌子中毒后大概就是这种感觉吧 https://t.co/qxNbZa2fVm"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1810176532629135360"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "1810176987467833541",
+        "created_at": "2024-07-08T04:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T05:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810176987467833541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/qxNbZa2fVm",
+              "end": 40,
+              "expanded_url": "https://twitter.com/igeekbb/status/1810176987467833541/video/1",
+              "media_key": "7_1810176532629135360",
+              "start": 17,
+              "url": "https://t.co/qxNbZa2fVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810176987467833541",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 555,
+          "impression_count": 647642,
+          "like_count": 3386,
+          "quote_count": 33,
+          "reply_count": 104,
+          "retweet_count": 385
+        },
+        "reply_settings": "everyone",
+        "text": "云南菌子中毒后大概就是这种感觉吧 https://t.co/qxNbZa2fVm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "黑猫化身的吸血鬼公主🕸️悲情詩人🩸恋血 断肢癖 dom👁️三好青年🖤紋身師/穿孔師",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸眠的黑貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806732675610509316/0AMc6Aj-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7605,
+          "following_count": 127,
+          "like_count": 3593,
+          "listed_count": 20,
+          "tweet_count": 1885
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️@geekbb 小号，发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "geekbb"
+              }
+            ]
+          }
+        },
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9307,
+          "following_count": 1,
+          "like_count": 658,
+          "listed_count": 66,
+          "tweet_count": 1878
+        },
+        "username": "igeekbb",
+        "verified": false
+      }
+    ]
+  }
+}

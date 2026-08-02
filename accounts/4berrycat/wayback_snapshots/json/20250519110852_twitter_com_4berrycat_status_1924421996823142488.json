@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kyoto",
+          "id": "855096052789026816",
+          "name": "Kyoto"
+        }
+      }
+    ],
+    "conversation_id": "1924421996823142488",
+    "created_at": "2025-05-19T11:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T12:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924421996823142488"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "sukekiyo TOUR2025",
+          "probability": 0.3297,
+          "start": 26,
+          "type": "Person"
+        },
+        {
+          "end": 77,
+          "normalized_text": "香港",
+          "probability": 0.9186,
+          "start": 76,
+          "type": "Place"
+        },
+        {
+          "end": 114,
+          "normalized_text": "京都府",
+          "probability": 0.8924,
+          "start": 112,
+          "type": "Place"
+        },
+        {
+          "end": 121,
+          "normalized_text": "京都FANJ",
+          "probability": 0.6088,
+          "start": 116,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2268379998",
+          "start": 3,
+          "username": "sukekiyo_band"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924421996823142488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 644
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914643224100266028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sukekiyo_band: 【最新情報】\nsukekiyo TOUR2025 満面の腐敗 -開放の儀-\n\n10月11日(土)・12日(日)\n【香港】PORTAL\n\n10月17日(金)・18日(土)・19日(日)\n【京都府】京都FANJ\n\n10月24日(金)・25日(土…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1914643218454716416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpIt3OuaoAAPvON.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "1924421996823142488",
+        "created_at": "2025-05-19T11:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T12:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924421996823142488"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "sukekiyo TOUR2025",
+              "probability": 0.3297,
+              "start": 26,
+              "type": "Person"
+            },
+            {
+              "end": 77,
+              "normalized_text": "香港",
+              "probability": 0.9186,
+              "start": 76,
+              "type": "Place"
+            },
+            {
+              "end": 114,
+              "normalized_text": "京都府",
+              "probability": 0.8924,
+              "start": 112,
+              "type": "Place"
+            },
+            {
+              "end": 121,
+              "normalized_text": "京都FANJ",
+              "probability": 0.6088,
+              "start": 116,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2268379998",
+              "start": 3,
+              "username": "sukekiyo_band"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924421996823142488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 644
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914643224100266028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sukekiyo_band: 【最新情報】\nsukekiyo TOUR2025 満面の腐敗 -開放の儀-\n\n10月11日(土)・12日(日)\n【香港】PORTAL\n\n10月17日(金)・18日(土)・19日(日)\n【京都府】京都FANJ\n\n10月24日(金)・25日(土…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914643218454716416"
+          ]
+        },
+        "author_id": "2268379998",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "1914643224100266028",
+        "created_at": "2025-04-22T11:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T12:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914643224100266028"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "sukekiyo TOUR2025",
+              "probability": 0.3575,
+              "start": 7,
+              "type": "Person"
+            },
+            {
+              "end": 58,
+              "normalized_text": "香港",
+              "probability": 0.8984,
+              "start": 57,
+              "type": "Place"
+            },
+            {
+              "end": 95,
+              "normalized_text": "京都府",
+              "probability": 0.9069,
+              "start": 93,
+              "type": "Place"
+            },
+            {
+              "end": 102,
+              "normalized_text": "京都FANJ",
+              "probability": 0.558,
+              "start": 97,
+              "type": "Place"
+            },
+            {
+              "end": 132,
+              "normalized_text": "東京都",
+              "probability": 0.8922,
+              "start": 130,
+              "type": "Place"
+            },
+            {
+              "end": 142,
+              "normalized_text": "神田スクエアホール",
+              "probability": 0.62,
+              "start": 134,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "sukekiyo TOUR2025 満面の腐敗 -開放の儀-開催決定 2025.4.22LIVE sukeki …",
+              "display_url": "sukekiyo-official.jp/news/2199/",
+              "end": 193,
+              "expanded_url": "https://sukekiyo-official.jp/news/2199/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1914643267309985792/7V5fVp44?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1914643267309985792/7V5fVp44?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 170,
+              "status": 200,
+              "title": "sukekiyo TOUR2025 満面の腐敗 -開放の儀-開催決定",
+              "unwound_url": "https://sukekiyo-official.jp/news/2199/",
+              "url": "https://t.co/KkKb00FOm3"
+            },
+            {
+              "display_url": "pic.x.com/DuE5kaIgk1",
+              "end": 217,
+              "expanded_url": "https://x.com/sukekiyo_band/status/1914643224100266028/photo/1",
+              "media_key": "3_1914643218454716416",
+              "start": 194,
+              "url": "https://t.co/DuE5kaIgk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914643224100266028",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 68976,
+          "like_count": 1370,
+          "quote_count": 91,
+          "reply_count": 14,
+          "retweet_count": 644
+        },
+        "reply_settings": "everyone",
+        "text": "【最新情報】\nsukekiyo TOUR2025 満面の腐敗 -開放の儀-\n\n10月11日(土)・12日(日)\n【香港】PORTAL\n\n10月17日(金)・18日(土)・19日(日)\n【京都府】京都FANJ\n\n10月24日(金)・25日(土)・26日(日)\n【東京都】神田スクエアホール\n\nチケット販売及び公演詳細は後日発表いたします。\n\nhttps://t.co/KkKb00FOm3 https://t.co/DuE5kaIgk1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐 为自己写字的人𖤐 Hail Satan 𖤐流动性别•泛性恋𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7516,
+          "following_count": 203,
+          "like_count": 6661,
+          "listed_count": 20,
+          "media_count": 618,
+          "tweet_count": 2455
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-30T05:36:21.000Z",
+        "description": "sukekiyo official Twitter",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sukekiyo-official.jp",
+                "end": 23,
+                "expanded_url": "http://sukekiyo-official.jp",
+                "start": 0,
+                "url": "https://t.co/ofKNIcNzNZ"
+              }
+            ]
+          }
+        },
+        "id": "2268379998",
+        "location": "JAPAN",
+        "name": "sukekiyo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891120158846099456/hf1wOtM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41327,
+          "following_count": 7,
+          "like_count": 1,
+          "listed_count": 356,
+          "media_count": 1015,
+          "tweet_count": 1999
+        },
+        "url": "https://t.co/ofKNIcNzNZ",
+        "username": "sukekiyo_band",
+        "verified": false
+      }
+    ]
+  }
+}

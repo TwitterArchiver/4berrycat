@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1835701320751403283",
+    "created_at": "2024-09-17T05:29:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T06:29:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835913956721897678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1644517724033552384",
+          "start": 0,
+          "username": "KK_1218_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835913956721897678",
+    "in_reply_to_user_id": "1644517724033552384",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835755936201466097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KK_1218_ 有但是我不玩了 登陆太麻烦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1835701320751403283",
+        "created_at": "2024-09-17T05:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T06:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835913956721897678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1644517724033552384",
+              "start": 0,
+              "username": "KK_1218_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835913956721897678",
+        "in_reply_to_user_id": "1644517724033552384",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835755936201466097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK_1218_ 有但是我不玩了 登陆太麻烦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644517724033552384",
+        "conversation_id": "1835701320751403283",
+        "created_at": "2024-09-16T19:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T20:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835755936201466097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1570856490654904320",
+              "start": 0,
+              "username": "4berrycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835755936201466097",
+        "in_reply_to_user_id": "1570856490654904320",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835701320751403283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4berrycat 宝宝有TikTok吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 💀 悲情诗人",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811770992915808257/RzDX1nk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7375,
+          "following_count": 134,
+          "like_count": 3954,
+          "listed_count": 19,
+          "tweet_count": 1915
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T01:49:30.000Z",
+        "description": "kill me",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ajiu492",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ajiu492",
+                "start": 0,
+                "url": "https://t.co/8YN6GbY2Ez"
+              }
+            ]
+          }
+        },
+        "id": "1644517724033552384",
+        "name": "KK_",
+        "pinned_tweet_id": "1823409335877427616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811267597020860416/eGU1Mdnq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 129,
+          "like_count": 138,
+          "listed_count": 0,
+          "tweet_count": 223
+        },
+        "url": "https://t.co/8YN6GbY2Ez",
+        "username": "KK_1218_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1916015209644494867",
+    "created_at": "2025-04-26T06:25:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T07:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916015660175700469"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1916015660175700469",
+    "in_reply_to_user_id": "1570856490654904320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916015209644494867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唱歌好听+乐品跟我一样，在我这里是直接加分加到近满分的，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1916015209644494867",
+        "created_at": "2025-04-26T06:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T07:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916015660175700469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916015660175700469",
+        "in_reply_to_user_id": "1570856490654904320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916015209644494867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唱歌好听+乐品跟我一样，在我这里是直接加分加到近满分的，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1916015209644494867",
+        "created_at": "2025-04-26T06:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T07:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916015209644494867"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916015209644494867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然没有恋爱打算\n但是理想型里有一条就是必须会唱歌且喜欢唱歌且唱歌好听并且跟我的乐品不能差很多\n不然根本不想谈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐 为自己写字的人𖤐 Hail Satan 𖤐流动性别•泛性恋𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7437,
+          "following_count": 198,
+          "like_count": 6498,
+          "listed_count": 20,
+          "media_count": 604,
+          "tweet_count": 2413
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

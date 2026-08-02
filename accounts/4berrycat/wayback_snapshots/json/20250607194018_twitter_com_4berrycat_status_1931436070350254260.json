@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1931436070350254260",
+    "created_at": "2025-06-07T19:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T20:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931436070350254260"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931436070350254260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不社交的一部分原因还有不想花钱在正常生活维持以外的事情。\n出去一趟吃饭，买水，打车什么的…虽然不是什么大钱\n但是\n我要存钱干好多事，提升学历，迁户口，去不同的国家，不同的城市…\n猫只想越来越好  猫已经戒掉自残和od\n猫想要成为理想中的自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1931436070350254260",
+        "created_at": "2025-06-07T19:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T20:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931436070350254260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931436070350254260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不社交的一部分原因还有不想花钱在正常生活维持以外的事情。\n出去一趟吃饭，买水，打车什么的…虽然不是什么大钱\n但是\n我要存钱干好多事，提升学历，迁户口，去不同的国家，不同的城市…\n猫只想越来越好  猫已经戒掉自残和od\n猫想要成为理想中的自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐 为自己写字的人𖤐 Hail Satan 𖤐流动性别•泛性恋𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7555,
+          "following_count": 211,
+          "like_count": 6923,
+          "listed_count": 20,
+          "media_count": 628,
+          "tweet_count": 2487
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

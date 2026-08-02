@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1928421877313073517",
+    "created_at": "2025-05-31T09:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T10:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928750424926109788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1887154385345761280",
+          "start": 0,
+          "username": "cytnb66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928750424926109788",
+    "in_reply_to_user_id": "1887154385345761280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928682753773478199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cytnb66 我驻店的纹身店"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1928421877313073517",
+        "created_at": "2025-05-31T09:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T10:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928750424926109788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1887154385345761280",
+              "start": 0,
+              "username": "cytnb66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928750424926109788",
+        "in_reply_to_user_id": "1887154385345761280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928682753773478199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cytnb66 我驻店的纹身店"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887154385345761280",
+        "conversation_id": "1928421877313073517",
+        "created_at": "2025-05-31T05:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T06:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928682753773478199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1570856490654904320",
+              "start": 0,
+              "username": "4berrycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928682753773478199",
+        "in_reply_to_user_id": "1570856490654904320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928421877313073517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4berrycat 这是什么地方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐 为自己写字的人𖤐 Hail Satan 𖤐流动性别•泛性恋𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7550,
+          "following_count": 203,
+          "like_count": 6852,
+          "listed_count": 20,
+          "media_count": 621,
+          "tweet_count": 2473
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T15:00:58.000Z",
+        "description": "同我啜泣 共我悲鸣",
+        "id": "1887154385345761280",
+        "location": "冰岛",
+        "name": "极端",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887154539746439168/oTT3mo9j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 68,
+          "like_count": 483,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 101
+        },
+        "username": "cytnb66",
+        "verified": false
+      }
+    ]
+  }
+}

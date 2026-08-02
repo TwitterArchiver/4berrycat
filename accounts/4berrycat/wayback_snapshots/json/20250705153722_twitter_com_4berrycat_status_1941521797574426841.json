@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941521788082716677"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1941521797574426841",
+    "created_at": "2025-07-05T15:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T16:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941521797574426841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 23,
+          "id": "1939752663589298180",
+          "start": 13,
+          "username": "7berrycat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dn5i8UtaIy",
+          "end": 47,
+          "expanded_url": "https://x.com/4berrycat/status/1941521797574426841/photo/1",
+          "media_key": "3_1941521788082716677",
+          "start": 24,
+          "url": "https://t.co/dn5i8UtaIy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941521797574426841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的里帐号已经变成美食号了@7berrycat https://t.co/dn5i8UtaIy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1941521788082716677",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvGrx5ZaAAUcakJ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941521788082716677"
+          ]
+        },
+        "author_id": "1570856490654904320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1941521797574426841",
+        "created_at": "2025-07-05T15:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T16:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941521797574426841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1939752663589298180",
+              "start": 13,
+              "username": "7berrycat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dn5i8UtaIy",
+              "end": 47,
+              "expanded_url": "https://x.com/4berrycat/status/1941521797574426841/photo/1",
+              "media_key": "3_1941521788082716677",
+              "start": 24,
+              "url": "https://t.co/dn5i8UtaIy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941521797574426841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的里帐号已经变成美食号了@7berrycat https://t.co/dn5i8UtaIy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "這裡是黑貓的日記本📓CHINESE TATTOO ARTIST𖤐 為自己寫字的人𖤐 Hail Satan 𖤐流動性別•泛性戀𖤐S/dom 𖤐日本語まだまだ勉強中 𖤐 Learning basic English",
+        "id": "1570856490654904320",
+        "location": "黒猫様の古城",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7609,
+          "following_count": 228,
+          "like_count": 7313,
+          "listed_count": 19,
+          "media_count": 656,
+          "tweet_count": 2539
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T18:27:46.000Z",
+        "description": "メイン @4berrycat  主页没有发过自己生活内容的会移除关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "4berrycat"
+              }
+            ]
+          }
+        },
+        "id": "1939752663589298180",
+        "name": "黒猫の部屋",
+        "pinned_tweet_id": "1939755634725200238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939753376490954752/52WQ8mbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 1,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 31
+        },
+        "username": "7berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

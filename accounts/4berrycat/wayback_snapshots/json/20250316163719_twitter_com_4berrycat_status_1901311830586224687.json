@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1901311830586224687",
+    "created_at": "2025-03-16T16:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T17:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901311830586224687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "ngl.link/du7cat",
+          "end": 23,
+          "expanded_url": "https://ngl.link/du7cat",
+          "start": 0,
+          "status": 429,
+          "unwound_url": "https://ngl.link/du7cat",
+          "url": "https://t.co/yvLYWGqjvm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901311830586224687",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/yvLYWGqjvm\n提问箱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1901311830586224687",
+        "created_at": "2025-03-16T16:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T17:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901311830586224687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "ngl.link/du7cat",
+              "end": 23,
+              "expanded_url": "https://ngl.link/du7cat",
+              "start": 0,
+              "status": 429,
+              "unwound_url": "https://ngl.link/du7cat",
+              "url": "https://t.co/yvLYWGqjvm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901311830586224687",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yvLYWGqjvm\n提问箱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐悲情诗人𖤐 Hail Satan 𖤐日常微信门槛277只是好友位 𖤐流动性别•泛性恋𖤐死神格雷尔的主人和爱人𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7384,
+          "following_count": 185,
+          "like_count": 5909,
+          "listed_count": 21,
+          "media_count": 587,
+          "tweet_count": 2289
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

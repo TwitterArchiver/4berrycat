@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1854628124367241219"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "1854628183095886323",
+    "created_at": "2024-11-07T20:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T21:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1854628183095886323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gWVtTWWAMp",
+          "end": 34,
+          "expanded_url": "https://x.com/4berrycat/status/1854628183095886323/video/1",
+          "media_key": "7_1854628124367241219",
+          "start": 11,
+          "url": "https://t.co/gWVtTWWAMp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854628183095886323",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我师父送我的包牛如逼 https://t.co/gWVtTWWAMp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1854628183095886323].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1854628183095886323",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1854628183095886323"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11865,
+        "height": 1280,
+        "media_key": "7_1854628124367241219",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1854628124367241219/pu/img/PZoKafGE8nKavb8G.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1854628124367241219/pu/vid/avc1/320x568/CU-L6BPOPi4qazH2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1854628124367241219/pu/vid/avc1/480x852/2AnicRCw8xbg_UrZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1854628124367241219/pu/vid/avc1/720x1280/QzY2gq2cjv21hyU2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1854628124367241219/pu/pl/6J-lfJiF2VTKusEn.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 💀 悲情诗人",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811770992915808257/RzDX1nk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7282,
+          "following_count": 153,
+          "like_count": 4362,
+          "listed_count": 19,
+          "tweet_count": 2014
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

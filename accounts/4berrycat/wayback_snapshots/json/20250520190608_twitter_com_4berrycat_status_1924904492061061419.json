@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1924904492061061419",
+    "created_at": "2025-05-20T19:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T20:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924904492061061419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0ysmpp/status/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/0ysmpp/status/1924896903961182418",
+          "start": 10,
+          "url": "https://t.co/gv2FG3GJZx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924904492061061419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924896903961182418",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻逼去死。。怎么敢 https://t.co/gv2FG3GJZx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1924896896071741440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grabh0ebsAAqdh1.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1924896896117862400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grabh0pbcAAQI5m.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1924896896080084994",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grabh0gbAAIWBSz.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1924896896096862210",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grabh0kbAAIyFd0.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1924904492061061419",
+        "created_at": "2025-05-20T19:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T20:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924904492061061419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0ysmpp/status/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/0ysmpp/status/1924896903961182418",
+              "start": 10,
+              "url": "https://t.co/gv2FG3GJZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924904492061061419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924896903961182418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼去死。。怎么敢 https://t.co/gv2FG3GJZx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924896896071741440",
+            "3_1924896896117862400",
+            "3_1924896896080084994",
+            "3_1924896896096862210"
+          ]
+        },
+        "author_id": "1778356449892270080",
+        "conversation_id": "1924896903961182418",
+        "created_at": "2025-05-20T18:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T19:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924896903961182418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/25DL3WoGHH",
+              "end": 93,
+              "expanded_url": "https://x.com/0ysmPp/status/1924896903961182418/photo/1",
+              "media_key": "3_1924896896071741440",
+              "start": 70,
+              "url": "https://t.co/25DL3WoGHH"
+            },
+            {
+              "display_url": "pic.x.com/25DL3WoGHH",
+              "end": 93,
+              "expanded_url": "https://x.com/0ysmPp/status/1924896903961182418/photo/1",
+              "media_key": "3_1924896896117862400",
+              "start": 70,
+              "url": "https://t.co/25DL3WoGHH"
+            },
+            {
+              "display_url": "pic.x.com/25DL3WoGHH",
+              "end": 93,
+              "expanded_url": "https://x.com/0ysmPp/status/1924896903961182418/photo/1",
+              "media_key": "3_1924896896080084994",
+              "start": 70,
+              "url": "https://t.co/25DL3WoGHH"
+            },
+            {
+              "display_url": "pic.x.com/25DL3WoGHH",
+              "end": 93,
+              "expanded_url": "https://x.com/0ysmPp/status/1924896903961182418/photo/1",
+              "media_key": "3_1924896896096862210",
+              "start": 70,
+              "url": "https://t.co/25DL3WoGHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924896903961182418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "帮我举报一下这人，抖音号SAIQ_191012 我私信不了她 盗我图还发布什么嗑药的 聊天记录不是我 评论区都在骂我 好恶心去死吧这人傻逼 https://t.co/25DL3WoGHH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐 为自己写字的人𖤐 Hail Satan 𖤐流动性别•泛性恋𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7521,
+          "following_count": 203,
+          "like_count": 6680,
+          "listed_count": 20,
+          "media_count": 618,
+          "tweet_count": 2459
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T09:36:45.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/shn_o5?igsh=an…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/shn_o5?igsh=anZjNTZ0ODlydG0%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/p2nnB411Tc"
+              }
+            ]
+          }
+        },
+        "id": "1778356449892270080",
+        "name": "ͭͥ̌ͤ͗ͣͫ̔͊͏͙̬̯̪͉̤̦͉̆͑̒̿̆͘҉̩̳ ༒ೄྀᬊ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889807994130669571/NImdAZ30_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5365,
+          "following_count": 116,
+          "like_count": 2469,
+          "listed_count": 5,
+          "media_count": 173,
+          "tweet_count": 2724
+        },
+        "url": "https://t.co/p2nnB411Tc",
+        "username": "0ysmPp",
+        "verified": false
+      }
+    ]
+  }
+}

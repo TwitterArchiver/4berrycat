@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1846867372193599488",
+        "3_1846867372596252676",
+        "3_1846867372197687296",
+        "3_1846867372197785600"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Body Art",
+          "id": "854712713510965248",
+          "name": "Body art"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      }
+    ],
+    "conversation_id": "1846867453189767362",
+    "created_at": "2024-10-17T10:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-17T11:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1846867453189767362"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 32,
+          "tag": "tattoo"
+        },
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "纹身"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Zj88pWV9i",
+          "end": 68,
+          "expanded_url": "https://x.com/4berrycat/status/1846867453189767362/photo/1",
+          "media_key": "3_1846867372193599488",
+          "start": 45,
+          "url": "https://t.co/5Zj88pWV9i"
+        },
+        {
+          "display_url": "pic.x.com/5Zj88pWV9i",
+          "end": 68,
+          "expanded_url": "https://x.com/4berrycat/status/1846867453189767362/photo/1",
+          "media_key": "3_1846867372596252676",
+          "start": 45,
+          "url": "https://t.co/5Zj88pWV9i"
+        },
+        {
+          "display_url": "pic.x.com/5Zj88pWV9i",
+          "end": 68,
+          "expanded_url": "https://x.com/4berrycat/status/1846867453189767362/photo/1",
+          "media_key": "3_1846867372197687296",
+          "start": 45,
+          "url": "https://t.co/5Zj88pWV9i"
+        },
+        {
+          "display_url": "pic.x.com/5Zj88pWV9i",
+          "end": 68,
+          "expanded_url": "https://x.com/4berrycat/status/1846867453189767362/photo/1",
+          "media_key": "3_1846867372197785600",
+          "start": 45,
+          "url": "https://t.co/5Zj88pWV9i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1846867453189767362",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一口价p1～p3=666人民币\np4=777人民币\n坐标广州 \n#tattoo  #纹身 https://t.co/5Zj88pWV9i"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1846867453189767362].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1846867453189767362",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1846867453189767362"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1846867372193599488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaFkFwLb0AA3hpn.jpg",
+        "width": 1448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1846867372596252676",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaFkFxrb0AQV6UX.jpg",
+        "width": 1448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1846867372197687296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaFkFwMaMAAS8PR.jpg",
+        "width": 1448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1846867372197785600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaFkFwMbsAAEpZR.jpg",
+        "width": 1448
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 💀 悲情诗人",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811770992915808257/RzDX1nk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7350,
+          "following_count": 150,
+          "like_count": 4196,
+          "listed_count": 19,
+          "tweet_count": 1973
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1897210302027943936"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "1897210367870472556",
+    "created_at": "2025-03-05T08:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T09:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897210367870472556"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "art"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B45TOHZwIq",
+          "end": 28,
+          "expanded_url": "https://x.com/4berrycat/status/1897210367870472556/video/1",
+          "media_key": "13_1897210302027943936",
+          "start": 5,
+          "url": "https://t.co/B45TOHZwIq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897210367870472556",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#art https://t.co/B45TOHZwIq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1897210367870472556].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1897210367870472556",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1897210367870472556"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30041,
+        "height": 1024,
+        "media_key": "13_1897210302027943936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1897210302027943936/img/n8kCWmRqs18JCAWC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1897210302027943936/vid/avc1/320x454/XK__XTpQX_Mm9eLI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1897210302027943936/vid/avc1/480x682/ku2wnZfZiWxu_Eqx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1897210302027943936/vid/avc1/720x1024/TW5v0IP4Q_wB5ja_.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1897210302027943936/pl/eJmtoOY8-iXGEAdg.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐悲情诗人𖤐 Hail Satan 𖤐日常微信门槛277只是好友位 𖤐流动性别•泛性恋𖤐死神格雷尔的主人和爱人𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7363,
+          "following_count": 178,
+          "like_count": 5694,
+          "listed_count": 21,
+          "media_count": 581,
+          "tweet_count": 2259
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

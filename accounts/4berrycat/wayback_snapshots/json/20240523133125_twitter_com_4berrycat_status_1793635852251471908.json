@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1793570748235403567",
+    "created_at": "2024-05-23T13:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T14:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793635852251471908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1473258943380344832",
+          "start": 0,
+          "username": "kanakosama5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793635852251471908",
+    "in_reply_to_user_id": "1473258943380344832",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793570748235403567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanakosama5 可爱捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1793570748235403567",
+        "created_at": "2024-05-23T13:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T14:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793635852251471908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1473258943380344832",
+              "start": 0,
+              "username": "kanakosama5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793635852251471908",
+        "in_reply_to_user_id": "1473258943380344832",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793570748235403567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanakosama5 可爱捏"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793570739154726912"
+          ]
+        },
+        "author_id": "1473258943380344832",
+        "conversation_id": "1793570748235403567",
+        "created_at": "2024-05-23T09:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T10:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793570748235403567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/i7YN760P2Y",
+              "end": 23,
+              "expanded_url": "https://twitter.com/kanakosama5/status/1793570748235403567/photo/1",
+              "media_key": "3_1793570739154726912",
+              "start": 0,
+              "url": "https://t.co/i7YN760P2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793570748235403567",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1155,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/i7YN760P2Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "黑猫化身的吸血鬼公主🕸️悲情詩人🩸恋血 断肢癖 dom/s🚪177/277除了互关都要门槛👁️爱我就把灵魂和肉体都献给我",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸眠的黑貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722655721647640576/VZPRSSCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7611,
+          "following_count": 121,
+          "like_count": 3298,
+          "listed_count": 19,
+          "tweet_count": 1858
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-21T11:48:07.000Z",
+        "description": "07 🚪52/88/128/288 天才小学生魔法少女 可爱即正义 漂亮无敌 不互关",
+        "id": "1473258943380344832",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "1787496326982484387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788206478735851520/lsu4KmNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 46,
+          "like_count": 812,
+          "listed_count": 2,
+          "tweet_count": 429
+        },
+        "username": "kanakosama5",
+        "verified": false
+      }
+    ]
+  }
+}

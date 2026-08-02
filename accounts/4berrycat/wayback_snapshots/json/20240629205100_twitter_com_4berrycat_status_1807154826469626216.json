@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1807126378426581443",
+    "created_at": "2024-06-29T20:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T21:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807154826469626216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1778356449892270080",
+          "start": 0,
+          "username": "bzdxxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807154826469626216",
+    "in_reply_to_user_id": "1778356449892270080",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807126378426581443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bzdxxh 我教你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1807126378426581443",
+        "created_at": "2024-06-29T20:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T21:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807154826469626216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1778356449892270080",
+              "start": 0,
+              "username": "bzdxxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807154826469626216",
+        "in_reply_to_user_id": "1778356449892270080",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807126378426581443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bzdxxh 我教你"
+      },
+      {
+        "attachments": {},
+        "author_id": "1778356449892270080",
+        "conversation_id": "1807126378426581443",
+        "created_at": "2024-06-29T18:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T19:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807126378426581443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807126378426581443",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从来没有自己去过医院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "黑猫化身的吸血鬼公主🕸️悲情詩人🩸恋血 断肢癖 dom👁️三好青年🫡爱我就把灵魂和肉体都献给我",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸眠的黑貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806732675610509316/0AMc6Aj-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7612,
+          "following_count": 127,
+          "like_count": 3568,
+          "listed_count": 20,
+          "tweet_count": 1916
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T09:36:45.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/shn_o5?igsh=an…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/shn_o5?igsh=anZjNTZ0ODlydG0%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/p2nnB40u3E"
+              }
+            ]
+          }
+        },
+        "id": "1778356449892270080",
+        "name": "ج_ ج",
+        "pinned_tweet_id": "1796955887623716980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805064826882023424/j4tRPntL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 59,
+          "like_count": 226,
+          "listed_count": 1,
+          "tweet_count": 323
+        },
+        "url": "https://t.co/p2nnB40u3E",
+        "username": "bzdxxh",
+        "verified": false
+      }
+    ]
+  }
+}

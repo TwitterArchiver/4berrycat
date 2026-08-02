@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900485109083459585",
+        "3_1900485108508848128",
+        "3_1900485108613718016",
+        "3_1900485108982837248"
+      ],
+      "media_source_tweet_id": [
+        "1900485111562350680",
+        "1900485111562350680",
+        "1900485111562350680",
+        "1900485111562350680"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "1909134510215561593",
+    "created_at": "2025-04-07T06:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T07:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909134510215561593"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Elvira",
+          "probability": 0.6905,
+          "start": 19,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1342597171355516928",
+          "start": 3,
+          "username": "deathndhorror"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tDavgfWaU0",
+          "end": 69,
+          "expanded_url": "https://x.com/deathndhorror/status/1900485111562350680/photo/1",
+          "media_key": "3_1900485109083459585",
+          "start": 46,
+          "url": "https://t.co/tDavgfWaU0"
+        },
+        {
+          "display_url": "pic.x.com/tDavgfWaU0",
+          "end": 69,
+          "expanded_url": "https://x.com/deathndhorror/status/1900485111562350680/photo/1",
+          "media_key": "3_1900485108508848128",
+          "start": 46,
+          "url": "https://t.co/tDavgfWaU0"
+        },
+        {
+          "display_url": "pic.x.com/tDavgfWaU0",
+          "end": 69,
+          "expanded_url": "https://x.com/deathndhorror/status/1900485111562350680/photo/1",
+          "media_key": "3_1900485108613718016",
+          "start": 46,
+          "url": "https://t.co/tDavgfWaU0"
+        },
+        {
+          "display_url": "pic.x.com/tDavgfWaU0",
+          "end": 69,
+          "expanded_url": "https://x.com/deathndhorror/status/1900485111562350680/photo/1",
+          "media_key": "3_1900485108982837248",
+          "start": 46,
+          "url": "https://t.co/tDavgfWaU0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909134510215561593",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2390
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900485111562350680",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @deathndhorror: Elvira's macabre mobile 🕷️ https://t.co/tDavgfWaU0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1093,
+        "media_key": "3_1900485109083459585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl_hIzPW0AE8Dd1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 410,
+        "media_key": "3_1900485108508848128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl_hIxGW8AAcVB3.jpg",
+        "width": 640
+      },
+      {
+        "height": 410,
+        "media_key": "3_1900485108613718016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl_hIxfXIAAeWm4.jpg",
+        "width": 640
+      },
+      {
+        "height": 1099,
+        "media_key": "3_1900485108982837248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl_hIy3XcAASjgr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900485109083459585",
+            "3_1900485108508848128",
+            "3_1900485108613718016",
+            "3_1900485108982837248"
+          ],
+          "media_source_tweet_id": [
+            "1900485111562350680",
+            "1900485111562350680",
+            "1900485111562350680",
+            "1900485111562350680"
+          ]
+        },
+        "author_id": "1570856490654904320",
+        "conversation_id": "1909134510215561593",
+        "created_at": "2025-04-07T06:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T07:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909134510215561593"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Elvira",
+              "probability": 0.6905,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1342597171355516928",
+              "start": 3,
+              "username": "deathndhorror"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tDavgfWaU0",
+              "end": 69,
+              "expanded_url": "https://x.com/deathndhorror/status/1900485111562350680/photo/1",
+              "media_key": "3_1900485109083459585",
+              "start": 46,
+              "url": "https://t.co/tDavgfWaU0"
+            },
+            {
+              "display_url": "pic.x.com/tDavgfWaU0",
+              "end": 69,
+              "expanded_url": "https://x.com/deathndhorror/status/1900485111562350680/photo/1",
+              "media_key": "3_1900485108508848128",
+              "start": 46,
+              "url": "https://t.co/tDavgfWaU0"
+            },
+            {
+              "display_url": "pic.x.com/tDavgfWaU0",
+              "end": 69,
+              "expanded_url": "https://x.com/deathndhorror/status/1900485111562350680/photo/1",
+              "media_key": "3_1900485108613718016",
+              "start": 46,
+              "url": "https://t.co/tDavgfWaU0"
+            },
+            {
+              "display_url": "pic.x.com/tDavgfWaU0",
+              "end": 69,
+              "expanded_url": "https://x.com/deathndhorror/status/1900485111562350680/photo/1",
+              "media_key": "3_1900485108982837248",
+              "start": 46,
+              "url": "https://t.co/tDavgfWaU0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909134510215561593",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2390
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900485111562350680",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @deathndhorror: Elvira's macabre mobile 🕷️ https://t.co/tDavgfWaU0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900485109083459585",
+            "3_1900485108508848128",
+            "3_1900485108613718016",
+            "3_1900485108982837248"
+          ]
+        },
+        "author_id": "1342597171355516928",
+        "conversation_id": "1900485111562350680",
+        "created_at": "2025-03-14T09:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T10:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900485111562350680"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Elvira",
+              "probability": 0.7341,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tDavgfWaU0",
+              "end": 50,
+              "expanded_url": "https://x.com/deathndhorror/status/1900485111562350680/photo/1",
+              "media_key": "3_1900485109083459585",
+              "start": 27,
+              "url": "https://t.co/tDavgfWaU0"
+            },
+            {
+              "display_url": "pic.x.com/tDavgfWaU0",
+              "end": 50,
+              "expanded_url": "https://x.com/deathndhorror/status/1900485111562350680/photo/1",
+              "media_key": "3_1900485108508848128",
+              "start": 27,
+              "url": "https://t.co/tDavgfWaU0"
+            },
+            {
+              "display_url": "pic.x.com/tDavgfWaU0",
+              "end": 50,
+              "expanded_url": "https://x.com/deathndhorror/status/1900485111562350680/photo/1",
+              "media_key": "3_1900485108613718016",
+              "start": 27,
+              "url": "https://t.co/tDavgfWaU0"
+            },
+            {
+              "display_url": "pic.x.com/tDavgfWaU0",
+              "end": 50,
+              "expanded_url": "https://x.com/deathndhorror/status/1900485111562350680/photo/1",
+              "media_key": "3_1900485108982837248",
+              "start": 27,
+              "url": "https://t.co/tDavgfWaU0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900485111562350680",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 943,
+          "impression_count": 317586,
+          "like_count": 13021,
+          "quote_count": 117,
+          "reply_count": 18,
+          "retweet_count": 2390
+        },
+        "reply_settings": "everyone",
+        "text": "Elvira's macabre mobile 🕷️ https://t.co/tDavgfWaU0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐 为自己写字的人𖤐 Hail Satan 𖤐流动性别•泛性恋𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7418,
+          "following_count": 196,
+          "like_count": 6199,
+          "listed_count": 20,
+          "media_count": 602,
+          "tweet_count": 2350
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-25T22:24:50.000Z",
+        "description": "Howdy folks. You like Blood?Violence? Freaks of Nature? Well then come on down to Captain Spaulding's Museum of Monsters and Madmen.   \n\nRun by @IsaKrueger666⛧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 144,
+                "username": "IsaKrueger666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/IsaKrueger",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/IsaKrueger",
+                "start": 0,
+                "url": "https://t.co/kDaQx6Azp8"
+              }
+            ]
+          }
+        },
+        "id": "1342597171355516928",
+        "location": "House of 1000 corpses",
+        "name": "𝕳𝖔𝖗𝖗𝖔𝖗 𝖌𝖎𝖗𝖑🔪",
+        "pinned_tweet_id": "1840974163088977943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651290655551782913/KUcBLOgr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227830,
+          "following_count": 184,
+          "like_count": 19972,
+          "listed_count": 333,
+          "media_count": 3660,
+          "tweet_count": 13715
+        },
+        "url": "https://t.co/kDaQx6Azp8",
+        "username": "deathndhorror",
+        "verified": true
+      }
+    ]
+  }
+}

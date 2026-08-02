@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1934695161638084665",
+    "created_at": "2025-06-16T19:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T20:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934696792207315388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1203523096235278336",
+          "start": 0,
+          "username": "Yukikaz40772195"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934696792207315388",
+    "in_reply_to_user_id": "1203523096235278336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934695953891774805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yukikaz40772195 关西方言吗这个🤔️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1934695161638084665",
+        "created_at": "2025-06-16T19:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T20:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934696792207315388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1203523096235278336",
+              "start": 0,
+              "username": "Yukikaz40772195"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934696792207315388",
+        "in_reply_to_user_id": "1203523096235278336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934695953891774805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yukikaz40772195 关西方言吗这个🤔️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1203523096235278336",
+        "conversation_id": "1934695161638084665",
+        "created_at": "2025-06-16T19:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T20:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934695953891774805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1570856490654904320",
+              "start": 0,
+              "username": "4berrycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934695953891774805",
+        "in_reply_to_user_id": "1570856490654904320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934695161638084665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4berrycat せやな"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "這裡是貓的日記本📓CHINESE TATTOO ARTIST𖤐 為自己寫字的人𖤐 Hail Satan 𖤐流動性別•泛性戀𖤐S/dom 𖤐日本語まだまだ勉強中 𖤐 Learning basic English",
+        "id": "1570856490654904320",
+        "location": "黒猫様の古城",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7569,
+          "following_count": 217,
+          "like_count": 7029,
+          "listed_count": 19,
+          "media_count": 633,
+          "tweet_count": 2511
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-08T03:54:17.000Z",
+        "description": "サヤと申します。 東京勢、20⬆️ザコカメラマン、(量産ロリータ)、猫の奴隷、ドール、DBD、FF14、法律、音ゲ。政治無関心なので、討論しないように。妹@jkdghalf411、母@houreisan0tyou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "jkdghalf411"
+              },
+              {
+                "end": 106,
+                "start": 91,
+                "username": "houreisan0tyou"
+              }
+            ]
+          }
+        },
+        "id": "1203523096235278336",
+        "location": "ホームレス支援センター",
+        "name": "Yukikaze",
+        "pinned_tweet_id": "1776791991000694983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930350032592744450/RaZ_Hb46_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 1134,
+          "like_count": 14415,
+          "listed_count": 8,
+          "media_count": 522,
+          "tweet_count": 5036
+        },
+        "username": "Yukikaz40772195",
+        "verified": true
+      }
+    ]
+  }
+}

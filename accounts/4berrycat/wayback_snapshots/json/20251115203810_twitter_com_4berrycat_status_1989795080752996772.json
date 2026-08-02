@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989385172710821896"
+      ],
+      "media_source_tweet_id": [
+        "1989385175575495141"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "1989795080752996772",
+    "created_at": "2025-11-15T20:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T21:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989795080752996772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1670856657981538313",
+          "start": 3,
+          "username": "NaNa_9771"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RuWc890cOD",
+          "end": 68,
+          "expanded_url": "https://x.com/NaNa_9771/status/1989385175575495141/photo/1",
+          "media_key": "3_1989385172710821896",
+          "start": 45,
+          "url": "https://t.co/RuWc890cOD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989795080752996772",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2838
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989385175575495141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NaNa_9771: 🧡悪ノ娘 💛 悪ノ召使\n悪P樣、原型師A樣、ありがとう！🥺 https://t.co/RuWc890cOD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989385172710821896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5u3RjzbkAgweod.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989385172710821896"
+          ],
+          "media_source_tweet_id": [
+            "1989385175575495141"
+          ]
+        },
+        "author_id": "1570856490654904320",
+        "conversation_id": "1989795080752996772",
+        "created_at": "2025-11-15T20:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T21:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989795080752996772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1670856657981538313",
+              "start": 3,
+              "username": "NaNa_9771"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RuWc890cOD",
+              "end": 68,
+              "expanded_url": "https://x.com/NaNa_9771/status/1989385175575495141/photo/1",
+              "media_key": "3_1989385172710821896",
+              "start": 45,
+              "url": "https://t.co/RuWc890cOD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989795080752996772",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2838
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989385175575495141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NaNa_9771: 🧡悪ノ娘 💛 悪ノ召使\n悪P樣、原型師A樣、ありがとう！🥺 https://t.co/RuWc890cOD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989385172710821896"
+          ]
+        },
+        "author_id": "1670856657981538313",
+        "conversation_id": "1989385175575495141",
+        "created_at": "2025-11-14T17:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T18:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989385175575495141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RuWc890cOD",
+              "end": 53,
+              "expanded_url": "https://x.com/NaNa_9771/status/1989385175575495141/photo/1",
+              "media_key": "3_1989385172710821896",
+              "start": 30,
+              "url": "https://t.co/RuWc890cOD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989385175575495141",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1279,
+          "impression_count": 408762,
+          "like_count": 21196,
+          "quote_count": 135,
+          "reply_count": 5,
+          "retweet_count": 2838
+        },
+        "reply_settings": "everyone",
+        "text": "🧡悪ノ娘 💛 悪ノ召使\n悪P樣、原型師A樣、ありがとう！🥺 https://t.co/RuWc890cOD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "這裡是黑貓的日記本📓CHINESE TATTOO ARTIST𖤐 為自己寫字的人𖤐 Hail Satan 𖤐流動性別•泛性戀𖤐S/dom 𖤐日本語まだまだ勉強中 𖤐 Learning basic English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/du7lucky?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/du7lucky?igsh=MWFrZHhnb2pjMjRq&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/khAu6pPqpL"
+              }
+            ]
+          }
+        },
+        "id": "1570856490654904320",
+        "location": "黒猫様の古城",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7734,
+          "following_count": 258,
+          "like_count": 7899,
+          "listed_count": 20,
+          "media_count": 750,
+          "tweet_count": 2669
+        },
+        "url": "https://t.co/khAu6pPqpL",
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-19T18:10:57.000Z",
+        "description": "📍CN｜自由塗裝師🎨｜💌Kami_Nana@outlook.com",
+        "id": "1670856657981538313",
+        "name": "NaNa_娜米",
+        "pinned_tweet_id": "1945343369355649164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846553561926361089/kB1LCaW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2323,
+          "following_count": 300,
+          "like_count": 891,
+          "listed_count": 11,
+          "media_count": 44,
+          "tweet_count": 591
+        },
+        "username": "NaNa_9771",
+        "verified": false
+      }
+    ]
+  }
+}

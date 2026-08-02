@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1925221074473558017",
+    "created_at": "2025-05-21T16:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T17:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925221074473558017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/gE9",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/gE9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925221074473558017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925176223606649119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 5月21日(发布) 辽宁沈阳。一名女子称遭到家暴，导致她半年来在噩梦与重度抑郁中度过，她恳求网友和媒体帮忙转发，让施暴者付出代价。\n 视频显示，男子在楼道对她拳打脚踢，即便女子下跪求饶，对方依然没有收手。 https://t.co/gE9…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 66800,
+        "height": 720,
+        "media_key": "13_1925176021437075456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1925176021437075456/img/CXsOkYzoGnc9lmfy.jpg",
+        "public_metrics": {
+          "view_count": 31927
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925176021437075456/vid/avc1/360x270/tzTEpIfne8UrtOxZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925176021437075456/vid/avc1/480x360/PR8IKiAqHT_pBcn3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925176021437075456/vid/avc1/960x720/pQK091XMvwIatsKu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1925176021437075456/pl/JAf_Do1lkm1fmP9A.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "height": 687,
+        "media_key": "3_1925176037811601408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GreZaAfawAAnUU2.jpg",
+        "width": 966
+      },
+      {
+        "height": 2504,
+        "media_key": "3_1925176081671426049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GreZcj4akAEhh5r.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1925221074473558017",
+        "created_at": "2025-05-21T16:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T17:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925221074473558017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/gE9",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/gE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925221074473558017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925176223606649119",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 5月21日(发布) 辽宁沈阳。一名女子称遭到家暴，导致她半年来在噩梦与重度抑郁中度过，她恳求网友和媒体帮忙转发，让施暴者付出代价。\n 视频显示，男子在楼道对她拳打脚踢，即便女子下跪求饶，对方依然没有收手。 https://t.co/gE9…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1925176021437075456",
+            "3_1925176037811601408",
+            "3_1925176081671426049"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1925176223606649119",
+        "created_at": "2025-05-21T13:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T14:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925176223606649119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gE98N4RcIR",
+              "end": 126,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1925176223606649119/video/1",
+              "media_key": "13_1925176021437075456",
+              "start": 103,
+              "url": "https://t.co/gE98N4RcIR"
+            },
+            {
+              "display_url": "pic.x.com/gE98N4RcIR",
+              "end": 126,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1925176223606649119/video/1",
+              "media_key": "3_1925176037811601408",
+              "start": 103,
+              "url": "https://t.co/gE98N4RcIR"
+            },
+            {
+              "display_url": "pic.x.com/gE98N4RcIR",
+              "end": 126,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1925176223606649119/video/1",
+              "media_key": "3_1925176081671426049",
+              "start": 103,
+              "url": "https://t.co/gE98N4RcIR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925176223606649119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 61433,
+          "like_count": 273,
+          "quote_count": 5,
+          "reply_count": 72,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "5月21日(发布) 辽宁沈阳。一名女子称遭到家暴，导致她半年来在噩梦与重度抑郁中度过，她恳求网友和媒体帮忙转发，让施暴者付出代价。\n 视频显示，男子在楼道对她拳打脚踢，即便女子下跪求饶，对方依然没有收手。 https://t.co/gE98N4RcIR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐 为自己写字的人𖤐 Hail Satan 𖤐流动性别•泛性恋𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7527,
+          "following_count": 203,
+          "like_count": 6687,
+          "listed_count": 20,
+          "media_count": 619,
+          "tweet_count": 2463
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1918067909705838897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994885,
+          "following_count": 951,
+          "like_count": 6372,
+          "listed_count": 8153,
+          "media_count": 28390,
+          "tweet_count": 34866
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

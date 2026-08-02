@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1935332791442620435",
+    "created_at": "2025-06-18T19:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T20:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935424976112521247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "261741721",
+          "start": 0,
+          "username": "maretu01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935424976112521247",
+    "in_reply_to_user_id": "261741721",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935332791442620435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maretu01 強烈な感情を喚起する美術品…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1935332417063006208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtuulFlWsAAv0dK.png",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1935332791442620435",
+        "created_at": "2025-06-18T19:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T20:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935424976112521247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "261741721",
+              "start": 0,
+              "username": "maretu01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935424976112521247",
+        "in_reply_to_user_id": "261741721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935332791442620435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maretu01 強烈な感情を喚起する美術品…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935332417063006208"
+          ]
+        },
+        "author_id": "261741721",
+        "conversation_id": "1935332791442620435",
+        "created_at": "2025-06-18T13:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T14:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935332791442620435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dN7JCT2nnC",
+              "end": 25,
+              "expanded_url": "https://x.com/maretu01/status/1935332791442620435/photo/1",
+              "media_key": "3_1935332417063006208",
+              "start": 2,
+              "url": "https://t.co/dN7JCT2nnC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935332791442620435",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 52094,
+          "like_count": 6008,
+          "quote_count": 30,
+          "reply_count": 34,
+          "retweet_count": 642
+        },
+        "reply_settings": "everyone",
+        "text": "W https://t.co/dN7JCT2nnC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "這裡是貓的日記本📓CHINESE TATTOO ARTIST𖤐 為自己寫字的人𖤐 Hail Satan 𖤐流動性別•泛性戀𖤐S/dom 𖤐日本語まだまだ勉強中 𖤐 Learning basic English",
+        "id": "1570856490654904320",
+        "location": "黒猫様の古城",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7572,
+          "following_count": 216,
+          "like_count": 7031,
+          "listed_count": 19,
+          "media_count": 634,
+          "tweet_count": 2517
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-06T16:14:35.000Z",
+        "description": "◉YouTube(1) : https://t.co/X4Y3HAMXJ5 ◉YouTube(2) : https://t.co/lx5uIP6TlG ◉FAQ：https://t.co/IycCoZZ0uJ ◉:@maretu00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 107,
+                "username": "maretu00"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "goo.gl/tCJ58E",
+                "end": 37,
+                "expanded_url": "http://goo.gl/tCJ58E",
+                "start": 14,
+                "url": "https://t.co/X4Y3HAMXJ5"
+              },
+              {
+                "display_url": "x.gd/dVl5u",
+                "end": 75,
+                "expanded_url": "https://x.gd/dVl5u",
+                "start": 52,
+                "url": "https://t.co/lx5uIP6TlG"
+              },
+              {
+                "display_url": "maretu01.wixsite.com/mrtclb/about",
+                "end": 104,
+                "expanded_url": "https://maretu01.wixsite.com/mrtclb/about",
+                "start": 81,
+                "url": "https://t.co/IycCoZZ0uJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maretu01.wixsite.com/mrtclb",
+                "end": 23,
+                "expanded_url": "https://maretu01.wixsite.com/mrtclb",
+                "start": 0,
+                "url": "https://t.co/CVIycczvC1"
+              }
+            ]
+          }
+        },
+        "id": "261741721",
+        "location": "◉Mail : maretu01@gmail.com",
+        "name": "MARETU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793969298836537344/38lp58hQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303483,
+          "following_count": 1046,
+          "like_count": 3138,
+          "listed_count": 1067,
+          "media_count": 850,
+          "tweet_count": 3244
+        },
+        "url": "https://t.co/CVIycczvC1",
+        "username": "maretu01",
+        "verified": false
+      }
+    ]
+  }
+}

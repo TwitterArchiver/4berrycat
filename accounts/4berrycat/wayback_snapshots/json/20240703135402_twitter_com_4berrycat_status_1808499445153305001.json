@@ -1,0 +1,210 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1807993230472142851"
+      ],
+      "media_source_tweet_id": [
+        "1807993247400149454"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1808499445153305001",
+    "created_at": "2024-07-03T13:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-03T14:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808499445153305001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1408741694267301889",
+          "start": 3,
+          "username": "YUSU_01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/J0CuF50it6",
+          "end": 47,
+          "expanded_url": "https://twitter.com/YUSU_01/status/1807993247400149454/photo/1",
+          "media_key": "3_1807993230472142851",
+          "start": 24,
+          "url": "https://t.co/J0CuF50it6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808499445153305001",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807993247400149454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YUSU_01: 惹我的婊子下場就這樣 https://t.co/J0CuF50it6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1808499445153305001].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1808499445153305001",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1808499445153305001"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 557,
+        "media_key": "3_1807993230472142851",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRdIQ5KaYAM3TUc.jpg",
+        "width": 594
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1807993230472142851"
+          ]
+        },
+        "author_id": "1408741694267301889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1807993247400149454",
+        "created_at": "2024-07-02T04:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T05:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807993247400149454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/J0CuF50it6",
+              "end": 34,
+              "expanded_url": "https://twitter.com/YUSU_01/status/1807993247400149454/photo/1",
+              "media_key": "3_1807993230472142851",
+              "start": 11,
+              "url": "https://t.co/J0CuF50it6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807993247400149454",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 13946,
+          "like_count": 690,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "惹我的婊子下場就這樣 https://t.co/J0CuF50it6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "黑猫化身的吸血鬼公主🕸️悲情詩人🩸恋血 断肢癖 dom👁️三好青年🫡爱我就把灵魂和肉体都献给我",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸眠的黑貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806732675610509316/0AMc6Aj-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7608,
+          "following_count": 128,
+          "like_count": 3575,
+          "listed_count": 20,
+          "tweet_count": 1922
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:59:36.000Z",
+        "description": "忠徒@AKIAKI_019 我就這樣那樣的惡俗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "AKIAKI_019"
+              }
+            ]
+          }
+        },
+        "id": "1408741694267301889",
+        "name": "YUSU",
+        "pinned_tweet_id": "1783037228845023708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803819006027259904/H_ncJJLt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6564,
+          "following_count": 35,
+          "like_count": 8324,
+          "listed_count": 2,
+          "tweet_count": 10728
+        },
+        "username": "YUSU_01",
+        "verified": false
+      }
+    ]
+  }
+}

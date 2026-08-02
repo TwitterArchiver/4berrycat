@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1843315571695460467",
+    "created_at": "2024-10-07T17:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T18:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843344647940386995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1380557893309669376",
+          "start": 0,
+          "username": "18CM__DICK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843344647940386995",
+    "in_reply_to_user_id": "1380557893309669376",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843316516407975989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@18CM__DICK 特别特别好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1843315571695460467",
+        "created_at": "2024-10-07T17:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T18:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843344647940386995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1380557893309669376",
+              "start": 0,
+              "username": "18CM__DICK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843344647940386995",
+        "in_reply_to_user_id": "1380557893309669376",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843316516407975989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@18CM__DICK 特别特别好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1380557893309669376",
+        "conversation_id": "1843315571695460467",
+        "created_at": "2024-10-07T15:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T16:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843316516407975989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1570856490654904320",
+              "start": 0,
+              "username": "4berrycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843316516407975989",
+        "in_reply_to_user_id": "1570856490654904320",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843315571695460467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4berrycat 啊啊啊啊啊白斩鸡啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 💀 悲情诗人",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811770992915808257/RzDX1nk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7362,
+          "following_count": 146,
+          "like_count": 4114,
+          "listed_count": 19,
+          "tweet_count": 1946
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-09T16:27:13.000Z",
+        "description": "mmmm",
+        "id": "1380557893309669376",
+        "location": "china",
+        "name": "Cat面膜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1404637242316886019/pPhjAoUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 378,
+          "like_count": 582,
+          "listed_count": 0,
+          "tweet_count": 291
+        },
+        "username": "18CM__DICK",
+        "verified": false
+      }
+    ]
+  }
+}

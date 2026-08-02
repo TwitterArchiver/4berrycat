@@ -1,0 +1,90 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1814746113045639169"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "1814746122122109087",
+    "created_at": "2024-07-20T19:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-20T20:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1814746122122109087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/1PeHAPwvPU",
+          "end": 23,
+          "expanded_url": "https://twitter.com/4berrycat/status/1814746122122109087/photo/1",
+          "media_key": "3_1814746113045639169",
+          "start": 0,
+          "url": "https://t.co/1PeHAPwvPU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814746122122109087",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/1PeHAPwvPU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1814746122122109087].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1814746122122109087",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1814746122122109087"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1978,
+        "media_key": "3_1814746113045639169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GS9F-ZGbMAE1NRE.jpg",
+        "width": 717
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 💀 悲情诗人",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811770992915808257/RzDX1nk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7544,
+          "following_count": 125,
+          "like_count": 3635,
+          "listed_count": 19,
+          "tweet_count": 1881
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907905233189019648"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "1907904374158012610",
+    "created_at": "2025-04-03T21:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T22:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907905249219850430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1896615147671781376",
+          "start": 0,
+          "username": "uramu147234"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O3eNd3zmI5",
+          "end": 41,
+          "expanded_url": "https://x.com/4berrycat/status/1907905249219850430/photo/1",
+          "media_key": "3_1907905233189019648",
+          "start": 18,
+          "url": "https://t.co/O3eNd3zmI5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907905249219850430",
+    "in_reply_to_user_id": "1896615147671781376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907904374158012610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uramu147234 我的格子 https://t.co/O3eNd3zmI5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1907905249219850430].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1907905249219850430",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1907905249219850430"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907905233189019648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gno9s3lXIAAW46x.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896615147671781376",
+        "conversation_id": "1907904374158012610",
+        "created_at": "2025-04-03T21:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T22:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907904374158012610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "𝔲𝔯𝔞𝔪𝔲’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1mrGm…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1mrGmPlVzbvKy",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1907904378423676928/eeLdVjGG?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1907904378423676928/eeLdVjGG?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 我要续上大灭（你）",
+              "unwound_url": "https://twitter.com/i/spaces/1mrGmPlVzbvKy/peek",
+              "url": "https://t.co/DlFcdWWw6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907904374158012610",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DlFcdWWw6F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐 为自己写字的人𖤐 Hail Satan 𖤐流动性别•泛性恋𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7408,
+          "following_count": 195,
+          "like_count": 6147,
+          "listed_count": 21,
+          "media_count": 596,
+          "tweet_count": 2337
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T17:35:04.000Z",
+        "description": "请叫我小恨！是喜欢漫画和音乐的一般路过oc人 oc/漫画/visual kei/泛亚文化 不希望自己拥有性别(゜゜)喜欢的漫画是烙印战士 喜欢的盘是DIR EN GREY 👁️我不是机器 我是活的 看黄男滚出这里👁️",
+        "id": "1896615147671781376",
+        "location": "判罪塔",
+        "name": "𝔲𝔯𝔞𝔪𝔲",
+        "pinned_tweet_id": "1900426166353485935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900240755811377158/zeBxC9wF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 95,
+          "like_count": 1097,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 178
+        },
+        "username": "uramu147234",
+        "verified": false
+      }
+    ]
+  }
+}

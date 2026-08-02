@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911119040333901824",
+        "3_1911119044222013440",
+        "3_1911119040329756672"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "1911119086689636807",
+    "created_at": "2025-04-12T18:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T19:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911119086689636807"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QUvsDQVTKo",
+          "end": 25,
+          "expanded_url": "https://x.com/4berrycat/status/1911119086689636807/photo/1",
+          "media_key": "3_1911119040333901824",
+          "start": 2,
+          "url": "https://t.co/QUvsDQVTKo"
+        },
+        {
+          "display_url": "pic.x.com/QUvsDQVTKo",
+          "end": 25,
+          "expanded_url": "https://x.com/4berrycat/status/1911119086689636807/photo/1",
+          "media_key": "3_1911119044222013440",
+          "start": 2,
+          "url": "https://t.co/QUvsDQVTKo"
+        },
+        {
+          "display_url": "pic.x.com/QUvsDQVTKo",
+          "end": 25,
+          "expanded_url": "https://x.com/4berrycat/status/1911119086689636807/photo/1",
+          "media_key": "3_1911119040329756672",
+          "start": 2,
+          "url": "https://t.co/QUvsDQVTKo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911119086689636807",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🫶 https://t.co/QUvsDQVTKo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1911119086689636807].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1911119086689636807",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1911119086689636807"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1702,
+        "media_key": "3_1911119040333901824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoWopEKWcAAstgC.jpg",
+        "width": 1135
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1911119044222013440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoWopSpWUAASjeY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1609,
+        "media_key": "3_1911119040329756672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoWopEJXMAApC4h.jpg",
+        "width": 1073
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐 为自己写字的人𖤐 Hail Satan 𖤐流动性别•泛性恋𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7420,
+          "following_count": 195,
+          "like_count": 6272,
+          "listed_count": 19,
+          "media_count": 606,
+          "tweet_count": 2369
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1850873446659506316",
+    "created_at": "2024-10-28T12:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-28T13:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1850873446659506316"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1850873446659506316",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我其实就是一只死肥猪啊那怕我再优秀别人看到我第一眼就是卧槽死肥猪🌚🌚🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1850873446659506316",
+        "created_at": "2024-10-28T12:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T13:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850873446659506316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1850873446659506316",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实就是一只死肥猪啊那怕我再优秀别人看到我第一眼就是卧槽死肥猪🌚🌚🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 💀 悲情诗人",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811770992915808257/RzDX1nk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7343,
+          "following_count": 149,
+          "like_count": 4286,
+          "listed_count": 19,
+          "tweet_count": 1996
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1914498054356656209",
+    "created_at": "2025-04-22T02:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T03:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914500143279378844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1896615147671781376",
+          "start": 0,
+          "username": "uramu147234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914500143279378844",
+    "in_reply_to_user_id": "1896615147671781376",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914498054356656209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uramu147234 +1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1914498054356656209",
+        "created_at": "2025-04-22T02:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T03:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914500143279378844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1896615147671781376",
+              "start": 0,
+              "username": "uramu147234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914500143279378844",
+        "in_reply_to_user_id": "1896615147671781376",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914498054356656209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uramu147234 +1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896615147671781376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1181015430711758848",
+              "name": "Bandai Namco"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1181015430711758848",
+              "name": "Bandai Namco"
+            }
+          }
+        ],
+        "conversation_id": "1914498054356656209",
+        "created_at": "2025-04-22T01:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T02:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914498054356656209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/m_d_m_official…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/m_d_m_official/status/1914217417607418266",
+              "start": 56,
+              "url": "https://t.co/UNOzXpPm4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914498054356656209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914217417607418266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可恶啊......如果你们明年还会来的话我一定回来看你们的......mana sama(ಥ﹏ಥ)...... https://t.co/UNOzXpPm4t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐 为自己写字的人𖤐 Hail Satan 𖤐流动性别•泛性恋𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7433,
+          "following_count": 198,
+          "like_count": 6478,
+          "listed_count": 20,
+          "media_count": 602,
+          "tweet_count": 2406
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T17:35:04.000Z",
+        "description": "请叫我小恨！是喜欢漫画和音乐的一般路过oc人 oc/漫画/visual kei/泛亚文化 不希望自己拥有性别(゜゜)喜欢的漫画是烙印战士 喜欢的盘是DIR EN GREY 👁️我不是机器 我是活的 看黄男滚出这里👁️",
+        "id": "1896615147671781376",
+        "location": "判罪塔",
+        "name": "𝔲𝔯𝔞𝔪𝔲",
+        "pinned_tweet_id": "1900426166353485935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900240755811377158/zeBxC9wF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 107,
+          "like_count": 1470,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 257
+        },
+        "username": "uramu147234",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2041078812738514945"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "2041078916111323606",
+    "created_at": "2026-04-06T09:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T10:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041078916111323606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 87,
+          "id": "1508777563916709894",
+          "start": 76,
+          "username": "HELLFROMCN"
+        },
+        {
+          "end": 126,
+          "id": "1508777563916709894",
+          "start": 115,
+          "username": "HELLFROMCN"
+        },
+        {
+          "end": 199,
+          "id": "1570856490654904320",
+          "start": 189,
+          "username": "4berrycat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AW2qtkcXyt",
+          "end": 252,
+          "expanded_url": "https://x.com/4berrycat/status/2041078916111323606/video/1",
+          "media_key": "13_2041078812738514945",
+          "start": 229,
+          "url": "https://t.co/AW2qtkcXyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041078916111323606",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "HELLFROM x Teeth Decay - Darling Cake (Official Teaser Video)\n\nArranged by: @HELLFROMCN / Teeth Decay\nComposed by: @HELLFROMCN / Teeth Decay\nMixed &amp; Mastered by: Lam11\nOriginal Art: ME @4berrycat \nEdited by: LILISIBJ / Lam11 https://t.co/AW2qtkcXyt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21733,
+        "height": 720,
+        "media_key": "13_2041078812738514945",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041078812738514945/img/FKoRWm0jYU62sxE-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041078812738514945/vid/avc1/480x270/iCKgLQrxnkup5IvQ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041078812738514945/vid/avc1/640x360/00lVwEUWZBSKL6OZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041078812738514945/vid/avc1/1280x720/pZNpGtoIsytjxY_9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041078812738514945/pl/8mGRfknKWq2QtZyc.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041078812738514945"
+          ]
+        },
+        "author_id": "1570856490654904320",
+        "conversation_id": "2041078916111323606",
+        "created_at": "2026-04-06T09:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041078916111323606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 87,
+              "id": "1508777563916709894",
+              "start": 76,
+              "username": "HELLFROMCN"
+            },
+            {
+              "end": 126,
+              "id": "1508777563916709894",
+              "start": 115,
+              "username": "HELLFROMCN"
+            },
+            {
+              "end": 199,
+              "id": "1570856490654904320",
+              "start": 189,
+              "username": "4berrycat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AW2qtkcXyt",
+              "end": 252,
+              "expanded_url": "https://x.com/4berrycat/status/2041078916111323606/video/1",
+              "media_key": "13_2041078812738514945",
+              "start": 229,
+              "url": "https://t.co/AW2qtkcXyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041078916111323606",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "HELLFROM x Teeth Decay - Darling Cake (Official Teaser Video)\n\nArranged by: @HELLFROMCN / Teeth Decay\nComposed by: @HELLFROMCN / Teeth Decay\nMixed &amp; Mastered by: Lam11\nOriginal Art: ME @4berrycat \nEdited by: LILISIBJ / Lam11 https://t.co/AW2qtkcXyt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "這裡是黑貓的日記本📓CHINESE TATTOO ARTIST𖤐 為自己寫字的人𖤐 日本語まだまだ勉強中 𖤐 Learning basic English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/du7lucky?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/du7lucky?igsh=MWFrZHhnb2pjMjRq&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/khAu6pPqpL"
+              }
+            ]
+          }
+        },
+        "id": "1570856490654904320",
+        "location": "黒猫様の古城",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7896,
+          "following_count": 270,
+          "like_count": 9084,
+          "listed_count": 21,
+          "media_count": 777,
+          "tweet_count": 2727
+        },
+        "url": "https://t.co/khAu6pPqpL",
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-29T12:06:34.000Z",
+        "description": "",
+        "id": "1508777563916709894",
+        "name": "狱来HELLFROM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040835730994614272/nRHO3UKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 11,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "HELLFROMCN",
+        "verified": false
+      }
+    ]
+  }
+}

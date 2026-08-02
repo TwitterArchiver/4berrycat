@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1912535385613431169",
+    "created_at": "2025-04-16T17:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T18:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912551645638173052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1277261255523303424",
+          "start": 0,
+          "username": "MMPIvMW3bF5Iqng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912551645638173052",
+    "in_reply_to_user_id": "1277261255523303424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912539148831080449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MMPIvMW3bF5Iqng 因为我现在旁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1912535385613431169",
+        "created_at": "2025-04-16T17:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T18:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912551645638173052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1277261255523303424",
+              "start": 0,
+              "username": "MMPIvMW3bF5Iqng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912551645638173052",
+        "in_reply_to_user_id": "1277261255523303424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912539148831080449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MMPIvMW3bF5Iqng 因为我现在旁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277261255523303424",
+        "conversation_id": "1912535385613431169",
+        "created_at": "2025-04-16T16:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T17:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912539148831080449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1570856490654904320",
+              "start": 0,
+              "username": "4berrycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912539148831080449",
+        "in_reply_to_user_id": "1570856490654904320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912535385613431169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4berrycat 为啥要这么瘦？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐 为自己写字的人𖤐 Hail Satan 𖤐流动性别•泛性恋𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7417,
+          "following_count": 197,
+          "like_count": 6359,
+          "listed_count": 20,
+          "media_count": 608,
+          "tweet_count": 2389
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-28T15:23:23.000Z",
+        "description": "no kiss ,no kiss,no kiss",
+        "id": "1277261255523303424",
+        "name": "怡口糖三包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793602689252904960/Jq3_SKlc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 391,
+          "like_count": 5911,
+          "listed_count": 8,
+          "media_count": 272,
+          "tweet_count": 23354
+        },
+        "username": "MMPIvMW3bF5Iqng",
+        "verified": false
+      }
+    ]
+  }
+}

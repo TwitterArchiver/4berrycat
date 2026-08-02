@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906715397321277440"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "1906715408494678253",
+    "created_at": "2025-03-31T14:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T15:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906715408494678253"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rwiZ6stVX5",
+          "end": 37,
+          "expanded_url": "https://x.com/4berrycat/status/1906715408494678253/photo/1",
+          "media_key": "3_1906715397321277440",
+          "start": 14,
+          "url": "https://t.co/rwiZ6stVX5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906715408494678253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "欢迎宝宝们预约🖤🖤\n求转发 https://t.co/rwiZ6stVX5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1906715408494678253].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1906715408494678253",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1906715408494678253"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1906715397321277440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnYDjTkaQAAtar0.jpg",
+        "width": 724
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐悲情诗人𖤐 Hail Satan 𖤐日常微信门槛277只是好友位 𖤐流动性别•泛性恋𖤐死神格雷尔的主人和爱人𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7389,
+          "following_count": 192,
+          "like_count": 6099,
+          "listed_count": 20,
+          "media_count": 591,
+          "tweet_count": 2311
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

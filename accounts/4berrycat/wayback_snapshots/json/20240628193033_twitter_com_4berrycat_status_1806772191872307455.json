@@ -1,0 +1,174 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1806772191872307455",
+    "created_at": "2024-06-28T19:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T20:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806772191872307455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1607922536133656577",
+          "start": 3,
+          "username": "Ririca520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806772191872307455",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793105582586831283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ririca520: 我一直觉得“你在干嘛”有点“我在想你”的意思。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1806772191872307455",
+        "created_at": "2024-06-28T19:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T20:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806772191872307455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1607922536133656577",
+              "start": 3,
+              "username": "Ririca520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806772191872307455",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793105582586831283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ririca520: 我一直觉得“你在干嘛”有点“我在想你”的意思。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1607922536133656577",
+        "conversation_id": "1793105582586831283",
+        "created_at": "2024-05-22T02:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T03:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793105582586831283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793105582586831283",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 113102,
+          "like_count": 1066,
+          "quote_count": 15,
+          "reply_count": 87,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "我一直觉得“你在干嘛”有点“我在想你”的意思。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "黑猫化身的吸血鬼公主🕸️悲情詩人🩸恋血 断肢癖 dom👁️三好青年🫡爱我就把灵魂和肉体都献给我",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸眠的黑貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806732675610509316/0AMc6Aj-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7604,
+          "following_count": 126,
+          "like_count": 3566,
+          "listed_count": 20,
+          "tweet_count": 1908
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-28T02:13:13.000Z",
+        "description": "傲娇毒舌｜海外在住｜偶尔参加演奏会和比赛｜🎹@Mizukileau",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Mizukileau"
+              }
+            ]
+          }
+        },
+        "id": "1607922536133656577",
+        "location": "Arasaka Tower",
+        "name": "姌",
+        "pinned_tweet_id": "1723879681668067340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803873795469348864/R39jrwlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5002,
+          "following_count": 520,
+          "like_count": 57490,
+          "listed_count": 17,
+          "tweet_count": 3913
+        },
+        "username": "Ririca520",
+        "verified": false
+      }
+    ]
+  }
+}

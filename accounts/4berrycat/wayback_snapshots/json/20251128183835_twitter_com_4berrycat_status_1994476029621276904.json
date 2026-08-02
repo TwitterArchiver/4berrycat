@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1994426879248572867",
+    "created_at": "2025-11-28T18:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T19:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994476029621276904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1896615147671781376",
+          "start": 0,
+          "username": "uramu147234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994476029621276904",
+    "in_reply_to_user_id": "1896615147671781376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994426879248572867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uramu147234 我来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1994426879248572867",
+        "created_at": "2025-11-28T18:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T19:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994476029621276904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1896615147671781376",
+              "start": 0,
+              "username": "uramu147234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994476029621276904",
+        "in_reply_to_user_id": "1896615147671781376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994426879248572867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uramu147234 我来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896615147671781376",
+        "conversation_id": "1994426879248572867",
+        "created_at": "2025-11-28T15:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T16:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994426879248572867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1570856490654904320",
+              "start": 0,
+              "username": "4berrycat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/vbot001/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/vbot001/status/1993946978926120970",
+              "start": 19,
+              "url": "https://t.co/dXqF1jEo1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994426879248572867",
+        "in_reply_to_user_id": "1570856490654904320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993946978926120970",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4berrycat 老大快来听ww https://t.co/dXqF1jEo1O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "這裡是黑貓的日記本📓CHINESE TATTOO ARTIST𖤐 為自己寫字的人𖤐 Hail Satan 𖤐流動性別•泛性戀𖤐S/dom 𖤐日本語まだまだ勉強中 𖤐 Learning basic English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/du7lucky?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/du7lucky?igsh=MWFrZHhnb2pjMjRq&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/khAu6pPqpL"
+              }
+            ]
+          }
+        },
+        "id": "1570856490654904320",
+        "location": "黒猫様の古城",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7765,
+          "following_count": 260,
+          "like_count": 7945,
+          "listed_count": 20,
+          "media_count": 757,
+          "tweet_count": 2682
+        },
+        "url": "https://t.co/khAu6pPqpL",
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T17:35:04.000Z",
+        "description": "请叫我小恨！是喜欢漫画和音乐的一般路过oc人 oc/漫画/visual kei/泛亚文化 不希望自己拥有性别(゜゜)喜欢的漫画是烙印战士 喜欢的盘是DIR EN GREY 👁️我不是机器 我是活的 看黄男滚出这里👁️",
+        "id": "1896615147671781376",
+        "location": "判罪塔",
+        "name": "𝔲𝔯𝔞𝔪𝔲",
+        "pinned_tweet_id": "1900426166353485935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900240755811377158/zeBxC9wF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 246,
+          "like_count": 5052,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 538
+        },
+        "username": "uramu147234",
+        "verified": false
+      }
+    ]
+  }
+}

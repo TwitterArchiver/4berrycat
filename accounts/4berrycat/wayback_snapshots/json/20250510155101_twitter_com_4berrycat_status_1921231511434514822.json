@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1921184569362886795",
+    "created_at": "2025-05-10T15:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T16:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921231511434514822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1778356449892270080",
+          "start": 0,
+          "username": "0ysmPp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921231511434514822",
+    "in_reply_to_user_id": "1778356449892270080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921184569362886795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@0ysmPp 萌的我想哭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2733,
+        "height": 960,
+        "media_key": "13_1921184498122698752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1921184498122698752/img/Tet5DDH8rg32wHj9.jpg",
+        "public_metrics": {
+          "view_count": 44
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921184498122698752/vid/avc1/320x564/h0jOwW07qECnESb9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921184498122698752/vid/avc1/480x846/lfU6YAUQ8qW_6sSw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921184498122698752/vid/avc1/544x960/I14eRIMrVqF1zRUS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1921184498122698752/pl/xBq4Kdc909mQxc4C.m3u8"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "duration_ms": 6941,
+        "height": 960,
+        "media_key": "13_1921184498143604736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1921184498143604736/img/958f_VovGoYiT5zy.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921184498143604736/vid/avc1/320x564/srzy-437V099J-X5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921184498143604736/vid/avc1/480x846/84BnIBcUErGcxyDi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921184498143604736/vid/avc1/544x960/Ui8-xZeQbghASgd-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1921184498143604736/pl/YzjNczSjweCPC8So.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1921184569362886795",
+        "created_at": "2025-05-10T15:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T16:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921231511434514822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1778356449892270080",
+              "start": 0,
+              "username": "0ysmPp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921231511434514822",
+        "in_reply_to_user_id": "1778356449892270080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921184569362886795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@0ysmPp 萌的我想哭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1921184498122698752",
+            "13_1921184498143604736"
+          ]
+        },
+        "author_id": "1778356449892270080",
+        "conversation_id": "1921184569362886795",
+        "created_at": "2025-05-10T12:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T13:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921184569362886795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJHGyKZF1x",
+              "end": 25,
+              "expanded_url": "https://x.com/0ysmPp/status/1921184569362886795/video/1",
+              "media_key": "13_1921184498122698752",
+              "start": 2,
+              "url": "https://t.co/zJHGyKZF1x"
+            },
+            {
+              "display_url": "pic.x.com/zJHGyKZF1x",
+              "end": 25,
+              "expanded_url": "https://x.com/0ysmPp/status/1921184569362886795/video/1",
+              "media_key": "13_1921184498143604736",
+              "start": 2,
+              "url": "https://t.co/zJHGyKZF1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921184569362886795",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "死 https://t.co/zJHGyKZF1x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐 为自己写字的人𖤐 Hail Satan 𖤐流动性别•泛性恋𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7515,
+          "following_count": 204,
+          "like_count": 6619,
+          "listed_count": 20,
+          "media_count": 616,
+          "tweet_count": 2441
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T09:36:45.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/shn_o5?igsh=an…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/shn_o5?igsh=anZjNTZ0ODlydG0%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/p2nnB411Tc"
+              }
+            ]
+          }
+        },
+        "id": "1778356449892270080",
+        "name": "ͭͥ̌ͤ͗ͣͫ̔͊͏͙̬̯̪͉̤̦͉̆͑̒̿̆͘҉̩̳ ༒ೄྀᬊ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889807994130669571/NImdAZ30_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5314,
+          "following_count": 114,
+          "like_count": 2453,
+          "listed_count": 5,
+          "media_count": 168,
+          "tweet_count": 2716
+        },
+        "url": "https://t.co/p2nnB411Tc",
+        "username": "0ysmPp",
+        "verified": false
+      }
+    ]
+  }
+}

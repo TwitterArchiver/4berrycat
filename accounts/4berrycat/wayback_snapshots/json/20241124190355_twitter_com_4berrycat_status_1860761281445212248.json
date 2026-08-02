@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860761269801832448"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "1860702103330836931",
+    "created_at": "2024-11-24T19:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T20:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860761281445212248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1645137676750946305",
+          "start": 0,
+          "username": "moheng573256207"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/setlinx8xu",
+          "end": 40,
+          "expanded_url": "https://x.com/4berrycat/status/1860761281445212248/photo/1",
+          "media_key": "3_1860761269801832448",
+          "start": 17,
+          "url": "https://t.co/setlinx8xu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860761281445212248",
+    "in_reply_to_user_id": "1645137676750946305",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860702103330836931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moheng573256207 https://t.co/setlinx8xu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1860761281445212248].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1860761281445212248",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1860761281445212248"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1860761269801832448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdLAhCJX0AAQzCW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645137676750946305",
+        "conversation_id": "1860702103330836931",
+        "created_at": "2024-11-24T15:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T16:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860702103330836931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "沈眉庄2.0’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1kvJp…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1kvJpbayzawKE",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1860702104672944128/fotmddcq?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1860702104672944128/fotmddcq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 唱歌",
+              "unwound_url": "https://twitter.com/i/spaces/1kvJpbayzawKE/peek",
+              "url": "https://t.co/HAbgWOawjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860702103330836931",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 414,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HAbgWOawjv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 💀 悲情诗人",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811770992915808257/RzDX1nk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7288,
+          "following_count": 155,
+          "like_count": 4574,
+          "listed_count": 19,
+          "tweet_count": 2047
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T18:53:03.000Z",
+        "description": "我叫墨恒/0s/06在校/微信只收赞赏码支付宝只收口令别的不回哈门槛/52/188/288/388/过门解锁线下，常住郑州喜欢喝酒/当朋友圈发/偶尔od/直男别来/喜欢温柔的人/重抑/喜发疯/女生随便扩/男生入门互关宝宝不用/接爸爸活妈妈活/烟是三盒起送不包邮/十盒包邮哦/",
+        "id": "1645137676750946305",
+        "location": "郑州",
+        "name": "沈眉庄2.0",
+        "pinned_tweet_id": "1848039912542740988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808500214912933888/0ElE8ygr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 128,
+          "like_count": 8023,
+          "listed_count": 0,
+          "tweet_count": 437
+        },
+        "username": "moheng573256207",
+        "verified": false
+      }
+    ]
+  }
+}

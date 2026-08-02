@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1907393505250476198",
+    "created_at": "2025-04-02T11:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T12:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907394095753920773"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1907394095753920773",
+    "in_reply_to_user_id": "1570856490654904320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907393505250476198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果有“长发男”吸引我，不代表我喜欢“长发男”，只是刚好吸引我的那个人留着适合他的长发而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1907393505250476198",
+        "created_at": "2025-04-02T11:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T12:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907394095753920773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907394095753920773",
+        "in_reply_to_user_id": "1570856490654904320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907393505250476198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果有“长发男”吸引我，不代表我喜欢“长发男”，只是刚好吸引我的那个人留着适合他的长发而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1907393505250476198",
+        "created_at": "2025-04-02T11:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T12:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907393505250476198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907393505250476198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我始终认为\"长发男”不应被视为群体标签\n发型本质上是个人审美选择，意义仅在二次元或偶像艺人中才具有（需要特征让人记住他们\n但现实社交时，吸引力应源于个人特质的综合呈现\n真正具备人格魅力的人无论蓄发还是剪短，本质上都是在进行自我表达的实践，这种选择不应被简单归类为群体身份标签"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐悲情诗人𖤐 Hail Satan 𖤐日常微信门槛277只是好友位 𖤐流动性别•泛性恋𖤐死神格雷尔的主人和爱人𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7389,
+          "following_count": 192,
+          "like_count": 6118,
+          "listed_count": 20,
+          "media_count": 594,
+          "tweet_count": 2323
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

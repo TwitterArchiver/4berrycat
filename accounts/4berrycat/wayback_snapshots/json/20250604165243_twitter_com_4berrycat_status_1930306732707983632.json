@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1930232959807959044"
+      ],
+      "media_source_tweet_id": [
+        "1930234341616984398"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "1930306732707983632",
+    "created_at": "2025-06-04T16:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T17:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930306732707983632"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "広州",
+          "probability": 0.8534,
+          "start": 31,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "458071755",
+          "start": 3,
+          "username": "shu_horiike"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WA0UopwriX",
+          "end": 122,
+          "expanded_url": "https://x.com/shu_horiike/status/1930234341616984398/video/1",
+          "media_key": "13_1930232959807959044",
+          "start": 99,
+          "url": "https://t.co/WA0UopwriX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930306732707983632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930234341616984398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shu_horiike: MagicNightツアー、広州公演ラストのシルバーコレクター　あまりに楽しくて、みんなの愛を感じて\n繋ぐ5秒前に急遽掻き回しMCと生歌やることにした\nという裏話 https://t.co/WA0UopwriX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 128700,
+        "height": 1080,
+        "media_key": "13_1930232959807959044",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1930232959807959044/img/9CAnLtlifZGwSADw.jpg",
+        "public_metrics": {
+          "view_count": 408
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930232959807959044/vid/avc1/640x360/7LdDct-g5D_3tG1O.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930232959807959044/vid/avc1/1280x720/VfJ7Njgqn9tBXjOx.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930232959807959044/vid/avc1/480x270/fLsib0ce3M7BsOBa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1930232959807959044/pl/fQ9Jr55bJehYDV53.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930232959807959044/vid/avc1/1920x1080/Aj0tRbOO8a-YI_Id.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1930232959807959044"
+          ],
+          "media_source_tweet_id": [
+            "1930234341616984398"
+          ]
+        },
+        "author_id": "1570856490654904320",
+        "conversation_id": "1930306732707983632",
+        "created_at": "2025-06-04T16:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T17:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930306732707983632"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "広州",
+              "probability": 0.8534,
+              "start": 31,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "458071755",
+              "start": 3,
+              "username": "shu_horiike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WA0UopwriX",
+              "end": 122,
+              "expanded_url": "https://x.com/shu_horiike/status/1930234341616984398/video/1",
+              "media_key": "13_1930232959807959044",
+              "start": 99,
+              "url": "https://t.co/WA0UopwriX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930306732707983632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930234341616984398",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shu_horiike: MagicNightツアー、広州公演ラストのシルバーコレクター　あまりに楽しくて、みんなの愛を感じて\n繋ぐ5秒前に急遽掻き回しMCと生歌やることにした\nという裏話 https://t.co/WA0UopwriX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1930232959807959044"
+          ]
+        },
+        "author_id": "458071755",
+        "conversation_id": "1930234341616984398",
+        "created_at": "2025-06-04T12:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T13:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930234341616984398"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "広州",
+              "probability": 0.8516,
+              "start": 14,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WA0UopwriX",
+              "end": 105,
+              "expanded_url": "https://x.com/shu_horiike/status/1930234341616984398/video/1",
+              "media_key": "13_1930232959807959044",
+              "start": 82,
+              "url": "https://t.co/WA0UopwriX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930234341616984398",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1452,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "MagicNightツアー、広州公演ラストのシルバーコレクター　あまりに楽しくて、みんなの愛を感じて\n繋ぐ5秒前に急遽掻き回しMCと生歌やることにした\nという裏話 https://t.co/WA0UopwriX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐 为自己写字的人𖤐 Hail Satan 𖤐流动性别•泛性恋𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7546,
+          "following_count": 207,
+          "like_count": 6882,
+          "listed_count": 20,
+          "media_count": 627,
+          "tweet_count": 2485
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-08T04:32:59.000Z",
+        "description": "LIVE: 5/31上海6/1広州, ボカロP | 堀池秀| DJ/Producer |VocaTECH |巡音ルカ|VocaGaku ( @Voca_Gaku ) Leader | Works: プロセカ, CHUNITHM, BEMANIシリーズ, MEGAREX 等 | FM: 🟡 / FT: #ばかShuき",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 158,
+                "start": 151,
+                "tag": "ばかShuき"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "Voca_Gaku"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/shu_horiike",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/shu_horiike",
+                "start": 0,
+                "url": "https://t.co/uKpsg0CpqL"
+              }
+            ]
+          }
+        },
+        "id": "458071755",
+        "location": "無所属・依頼○　shuhoriike@gmail.comまで",
+        "name": "Shu",
+        "pinned_tweet_id": "1922928140751339997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829505199779794944/5g5a19mY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18604,
+          "following_count": 960,
+          "like_count": 89517,
+          "listed_count": 169,
+          "media_count": 3515,
+          "tweet_count": 22816
+        },
+        "url": "https://t.co/uKpsg0CpqL",
+        "username": "shu_horiike",
+        "verified": true
+      }
+    ]
+  }
+}

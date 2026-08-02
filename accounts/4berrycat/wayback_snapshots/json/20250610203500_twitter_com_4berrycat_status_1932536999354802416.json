@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1932502425417724308",
+    "created_at": "2025-06-10T20:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T21:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932536999354802416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1651573408042455040",
+          "start": 0,
+          "username": "gachi9002658094"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932536999354802416",
+    "in_reply_to_user_id": "1651573408042455040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932502753777271135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gachi9002658094 没有哦 在家里也不睡觉的其实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1932502425417724308",
+        "created_at": "2025-06-10T20:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T21:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932536999354802416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1651573408042455040",
+              "start": 0,
+              "username": "gachi9002658094"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932536999354802416",
+        "in_reply_to_user_id": "1651573408042455040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932502753777271135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gachi9002658094 没有哦 在家里也不睡觉的其实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651573408042455040",
+        "conversation_id": "1932502425417724308",
+        "created_at": "2025-06-10T18:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T19:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932502753777271135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1570856490654904320",
+              "start": 0,
+              "username": "4berrycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932502753777271135",
+        "in_reply_to_user_id": "1570856490654904320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932502425417724308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4berrycat 嗜睡症。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "這裡是貓的日記本📓TATTOO ARTIST𖤐 為自己寫字的人𖤐 Hail Satan 𖤐流動性別•泛性戀𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7559,
+          "following_count": 212,
+          "like_count": 6979,
+          "listed_count": 19,
+          "media_count": 632,
+          "tweet_count": 2497
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-27T13:06:10.000Z",
+        "description": "wocaonimabi🚪88",
+        "id": "1651573408042455040",
+        "location": "earth",
+        "name": "封閉的神性",
+        "pinned_tweet_id": "1930149011706785945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900698592224186368/vKfl0Kax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 22,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 20
+        },
+        "username": "gachi9002658094",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863671799000731648"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "1863671809545277639",
+    "created_at": "2024-12-02T19:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T20:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863671809545277639"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SbPUUtaRDy",
+          "end": 45,
+          "expanded_url": "https://x.com/4berrycat/status/1863671809545277639/photo/1",
+          "media_key": "3_1863671799000731648",
+          "start": 22,
+          "url": "https://t.co/SbPUUtaRDy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863671809545277639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新紋身只看側面也很好看\n順便秀一下舊紋身💅 https://t.co/SbPUUtaRDy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1863671809545277639].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1863671809545277639",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1863671809545277639"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1863671799000731648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd0XoIVaEAAp1Y6.jpg",
+        "width": 848
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 💀 悲情诗人",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811770992915808257/RzDX1nk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7291,
+          "following_count": 158,
+          "like_count": 4695,
+          "listed_count": 19,
+          "media_count": 531,
+          "tweet_count": 2056
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1861691707638870266",
+    "created_at": "2024-11-28T04:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T05:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861995285297144188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1306612559638716418",
+          "start": 0,
+          "username": "xd_q1i3n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861995285297144188",
+    "in_reply_to_user_id": "1306612559638716418",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861691707638870266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xd_q1i3n 可愛い！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1861691707638870266",
+        "created_at": "2024-11-28T04:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T05:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861995285297144188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1306612559638716418",
+              "start": 0,
+              "username": "xd_q1i3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861995285297144188",
+        "in_reply_to_user_id": "1306612559638716418",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861691707638870266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xd_q1i3n 可愛い！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861691703343882240",
+            "3_1861691703335493636"
+          ]
+        },
+        "author_id": "1306612559638716418",
+        "conversation_id": "1861691707638870266",
+        "created_at": "2024-11-27T08:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T09:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861691707638870266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6xhEWETJEe",
+              "end": 26,
+              "expanded_url": "https://x.com/xd_q1i3n/status/1861691707638870266/photo/1",
+              "media_key": "3_1861691703343882240",
+              "start": 3,
+              "url": "https://t.co/6xhEWETJEe"
+            },
+            {
+              "display_url": "pic.x.com/6xhEWETJEe",
+              "end": 26,
+              "expanded_url": "https://x.com/xd_q1i3n/status/1861691707638870266/photo/1",
+              "media_key": "3_1861691703335493636",
+              "start": 3,
+              "url": "https://t.co/6xhEWETJEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861691707638870266",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 454,
+          "impression_count": 198143,
+          "like_count": 5845,
+          "quote_count": 80,
+          "reply_count": 15,
+          "retweet_count": 280
+        },
+        "reply_settings": "everyone",
+        "text": "🍭🍺 https://t.co/6xhEWETJEe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 💀 悲情诗人",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811770992915808257/RzDX1nk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7299,
+          "following_count": 158,
+          "like_count": 4601,
+          "listed_count": 19,
+          "media_count": 528,
+          "tweet_count": 2048
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-17T15:14:57.000Z",
+        "description": "🇯🇵🇧🇷🇫🇷 エトちゃんが作った作品たち アイコン自作┊︎自我▷@q1i3n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 32,
+                "username": "q1i3n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/xd_q1i3n",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/xd_q1i3n",
+                "start": 0,
+                "url": "https://t.co/5W7GV9ZW7t"
+              }
+            ]
+          }
+        },
+        "id": "1306612559638716418",
+        "location": "マゼラン星雲",
+        "name": "エトちゃん❕",
+        "pinned_tweet_id": "1861691707638870266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809207645397782531/L_TerV_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4317,
+          "following_count": 391,
+          "like_count": 20394,
+          "listed_count": 5,
+          "media_count": 81,
+          "tweet_count": 1386
+        },
+        "url": "https://t.co/5W7GV9ZW7t",
+        "username": "xd_q1i3n",
+        "verified": false
+      }
+    ]
+  }
+}

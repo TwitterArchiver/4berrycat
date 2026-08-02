@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1821763921327616404",
+    "created_at": "2024-08-09T18:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T19:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821969767160541514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1408741694267301889",
+          "start": 0,
+          "username": "YUSU_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821969767160541514",
+    "in_reply_to_user_id": "1408741694267301889",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821763921327616404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUSU_01 特别特别好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1821763921327616404",
+        "created_at": "2024-08-09T18:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T19:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821969767160541514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1408741694267301889",
+              "start": 0,
+              "username": "YUSU_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821969767160541514",
+        "in_reply_to_user_id": "1408741694267301889",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821763921327616404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUSU_01 特别特别好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821763910934130688"
+          ]
+        },
+        "author_id": "1408741694267301889",
+        "conversation_id": "1821763921327616404",
+        "created_at": "2024-08-09T04:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T05:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821763921327616404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jou19h31fv",
+              "end": 48,
+              "expanded_url": "https://twitter.com/YUSU_01/status/1821763921327616404/photo/1",
+              "media_key": "3_1821763910934130688",
+              "start": 25,
+              "url": "https://t.co/JoU19H31Fv"
+            },
+            {
+              "display_url": "x.com/yusu_01/status…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/yusu_01/status/1821664075258196294",
+              "start": 49,
+              "url": "https://t.co/GXA0HHCuFa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821763921327616404",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 708,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821664075258196294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沒人注意到我嘴巴裡也畫了結構嗎？！全部人都來誇我 https://t.co/JoU19H31Fv https://t.co/GXA0HHCuFa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 💀 悲情诗人",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811770992915808257/RzDX1nk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7468,
+          "following_count": 126,
+          "like_count": 3673,
+          "listed_count": 19,
+          "tweet_count": 1887
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:59:36.000Z",
+        "description": "",
+        "id": "1408741694267301889",
+        "name": "YUSU",
+        "pinned_tweet_id": "1783037228845023708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812810123498438657/oJ2AhBfZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6523,
+          "following_count": 29,
+          "like_count": 8448,
+          "listed_count": 2,
+          "tweet_count": 10942
+        },
+        "username": "YUSU_01",
+        "verified": false
+      }
+    ]
+  }
+}

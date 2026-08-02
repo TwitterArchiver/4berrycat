@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1943024880393560516",
+    "created_at": "2025-07-09T19:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T20:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943036953982832751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1467095000609849345",
+          "start": 0,
+          "username": "carnagesociety"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943036953982832751",
+    "in_reply_to_user_id": "1467095000609849345",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943024880393560516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carnagesociety 🥺🥺🥺🫶🫶🫶🫶🫶🫡🫡🫡😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1943024880393560516",
+        "created_at": "2025-07-09T19:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T20:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943036953982832751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1467095000609849345",
+              "start": 0,
+              "username": "carnagesociety"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943036953982832751",
+        "in_reply_to_user_id": "1467095000609849345",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943024880393560516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carnagesociety 🥺🥺🥺🫶🫶🫶🫶🫶🫡🫡🫡😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467095000609849345",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          }
+        ],
+        "conversation_id": "1943024880393560516",
+        "created_at": "2025-07-09T19:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T20:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943024880393560516"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Gorezono",
+              "probability": 0.7119,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/4berrycat/stat…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/4berrycat/status/1943020676463697960",
+              "start": 60,
+              "url": "https://t.co/V2MmwRyq7j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943024880393560516",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 761,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943020676463697960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Gorezono engraved on someone's body!\nThis is really amazing https://t.co/V2MmwRyq7j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "這裡是黑貓的日記本📓CHINESE TATTOO ARTIST𖤐 為自己寫字的人𖤐 Hail Satan 𖤐流動性別•泛性戀𖤐S/dom 𖤐日本語まだまだ勉強中 𖤐 Learning basic English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/du7lucky?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/du7lucky?igsh=MWFrZHhnb2pjMjRq&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/khAu6pPqpL"
+              }
+            ]
+          }
+        },
+        "id": "1570856490654904320",
+        "location": "黒猫様の古城",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7615,
+          "following_count": 229,
+          "like_count": 7344,
+          "listed_count": 19,
+          "media_count": 659,
+          "tweet_count": 2544
+        },
+        "url": "https://t.co/khAu6pPqpL",
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T11:34:48.000Z",
+        "description": "ゴアゾノさんを推せ🩸メタルとV系が好き \n💀commission▶@yuki12278947 \n💀sub account▶@GorezonoNeo \n💀fanart▶#ゴアガールファンアート \n💀link▼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 83,
+                "tag": "ゴアガールファンアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "yuki12278947"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "GorezonoNeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yukicarnagesoc…",
+                "end": 23,
+                "expanded_url": "https://lit.link/yukicarnagesociety",
+                "start": 0,
+                "url": "https://t.co/ZWgT5VWTU9"
+              }
+            ]
+          }
+        },
+        "id": "1467095000609849345",
+        "location": "ご依頼は(@yuki12278947 )のDMへ",
+        "name": "幽妃-yuki-🫀G0RE-GlRL PR0JECT/流血少女",
+        "pinned_tweet_id": "1926237151458382090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876935508863102976/arithVKG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38948,
+          "following_count": 748,
+          "like_count": 96670,
+          "listed_count": 177,
+          "media_count": 1435,
+          "tweet_count": 38358
+        },
+        "url": "https://t.co/ZWgT5VWTU9",
+        "username": "carnagesociety",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1908992488574275584"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "1908992578399404252",
+    "created_at": "2025-04-06T21:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T22:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908992578399404252"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yWFlUsGHq8",
+          "end": 39,
+          "expanded_url": "https://x.com/4berrycat/status/1908992578399404252/video/1",
+          "media_key": "13_1908992488574275584",
+          "start": 16,
+          "url": "https://t.co/yWFlUsGHq8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908992578399404252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "tany给我拍的黑猫进食🥺👁️ https://t.co/yWFlUsGHq8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1908992578399404252].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1908992578399404252",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1908992578399404252"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11600,
+        "height": 1280,
+        "media_key": "13_1908992488574275584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1908992488574275584/img/XMZF-qnVWNSl3RlT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908992488574275584/vid/avc1/320x568/RsgkLpQBhHI--HO4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908992488574275584/vid/avc1/480x852/q6ND-Umxi9MLCEP2.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908992488574275584/vid/avc1/720x1280/RnstJsaMtXp961-K.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1908992488574275584/pl/K1MDLiTP8hAdi_Wi.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐 为自己写字的人𖤐 Hail Satan 𖤐流动性别•泛性恋𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7416,
+          "following_count": 196,
+          "like_count": 6194,
+          "listed_count": 20,
+          "media_count": 602,
+          "tweet_count": 2349
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

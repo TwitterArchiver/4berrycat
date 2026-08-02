@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1909950861868224567",
+    "created_at": "2025-04-09T14:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T15:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909973396462387682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1408741694267301889",
+          "start": 0,
+          "username": "YUSU_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909973396462387682",
+    "in_reply_to_user_id": "1408741694267301889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909950861868224567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUSU_01 我不行了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1909950861868224567",
+        "created_at": "2025-04-09T14:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T15:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909973396462387682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1408741694267301889",
+              "start": 0,
+              "username": "YUSU_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909973396462387682",
+        "in_reply_to_user_id": "1408741694267301889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909950861868224567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUSU_01 我不行了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408741694267301889",
+        "conversation_id": "1909950861868224567",
+        "created_at": "2025-04-09T12:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T13:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909950861868224567"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909950861868224567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小姐姐我真是怕了你了，你一会说自己搞笑女，一会说自己抽象女的，现在又来个把妹王，我真是怕了你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐 为自己写字的人𖤐 Hail Satan 𖤐流动性别•泛性恋𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7409,
+          "following_count": 196,
+          "like_count": 6246,
+          "listed_count": 19,
+          "media_count": 604,
+          "tweet_count": 2364
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:59:36.000Z",
+        "description": "",
+        "id": "1408741694267301889",
+        "name": "YUSU",
+        "pinned_tweet_id": "1902293657656660254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908579424108503041/xlwIVsRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6981,
+          "following_count": 39,
+          "like_count": 10419,
+          "listed_count": 3,
+          "media_count": 1127,
+          "tweet_count": 14445
+        },
+        "username": "YUSU_01",
+        "verified": true
+      }
+    ]
+  }
+}

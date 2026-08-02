@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1814057558618808656",
+    "created_at": "2024-07-19T20:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-19T21:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814392759786377675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1553107630511603712",
+          "start": 0,
+          "username": "FreeEastAsia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814392759786377675",
+    "in_reply_to_user_id": "1553107630511603712",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814057558618808656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeEastAsia 星巴克没有四块钱柠檬水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1814057558618808656",
+        "created_at": "2024-07-19T20:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T21:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814392759786377675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1553107630511603712",
+              "start": 0,
+              "username": "FreeEastAsia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814392759786377675",
+        "in_reply_to_user_id": "1553107630511603712",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814057558618808656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeEastAsia 星巴克没有四块钱柠檬水"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1813949646508904448"
+          ]
+        },
+        "author_id": "1553107630511603712",
+        "conversation_id": "1814057558618808656",
+        "created_at": "2024-07-18T22:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T23:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814057558618808656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/5UMcNq9icU",
+              "end": 46,
+              "expanded_url": "https://twitter.com/FreeEastAsia/status/1814057558618808656/photo/1",
+              "media_key": "3_1813949646508904448",
+              "start": 23,
+              "url": "https://t.co/5UMcNq9icU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814057558618808656",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 280571,
+          "like_count": 827,
+          "quote_count": 24,
+          "reply_count": 440,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "“你真的是....哎，难怪他们都那样说你。” https://t.co/5UMcNq9icU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 💀 悲情诗人",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811770992915808257/RzDX1nk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7552,
+          "following_count": 125,
+          "like_count": 3619,
+          "listed_count": 19,
+          "tweet_count": 1878
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T19:58:53.000Z",
+        "description": "人生天地间，忽如远行客。",
+        "id": "1553107630511603712",
+        "location": "东亚",
+        "name": "九云筑一凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812465236080721920/d21rgnUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4186,
+          "following_count": 2196,
+          "like_count": 9570,
+          "listed_count": 15,
+          "tweet_count": 9917
+        },
+        "username": "FreeEastAsia",
+        "verified": true
+      }
+    ]
+  }
+}

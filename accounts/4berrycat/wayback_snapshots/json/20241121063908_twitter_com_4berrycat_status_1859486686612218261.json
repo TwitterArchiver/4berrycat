@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1859486659491860480"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "conversation_id": "1859486686612218261",
+    "created_at": "2024-11-21T06:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T07:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1859486686612218261"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N7FZ9LME2u",
+          "end": 59,
+          "expanded_url": "https://x.com/4berrycat/status/1859486686612218261/video/1",
+          "media_key": "7_1859486659491860480",
+          "start": 36,
+          "url": "https://t.co/N7FZ9LME2u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859486686612218261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天称了一下体重 但是九十九斤的脸不应该是这样吧？？不应该更瘦一点吗🥲 https://t.co/N7FZ9LME2u"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1859486686612218261].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1859486686612218261",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1859486686612218261"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5200,
+        "height": 1280,
+        "media_key": "7_1859486659491860480",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1859486659491860480/pu/img/X-BP-a5Z6TP_8bym.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1859486659491860480/pu/vid/avc1/320x568/WPLGw2XHasK72Dd3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1859486659491860480/pu/vid/avc1/480x852/SrcqSwIVEjdkj7lf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1859486659491860480/pu/vid/avc1/720x1280/y2yAuyh_yLNkb86p.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1859486659491860480/pu/pl/Tzjfi5sbgMXOvfl2.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 💀 悲情诗人",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811770992915808257/RzDX1nk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7279,
+          "following_count": 155,
+          "like_count": 4532,
+          "listed_count": 19,
+          "tweet_count": 2043
+        },
+        "username": "4berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1955306830290427947",
+    "created_at": "2025-08-13T20:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T21:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955722548743954624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1467095000609849345",
+          "start": 0,
+          "username": "carnagesociety"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955722548743954624",
+    "in_reply_to_user_id": "1467095000609849345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955306830290427947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carnagesociety あああああ！本当に！？楽しみすぎる！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1955306830290427947",
+        "created_at": "2025-08-13T20:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T21:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955722548743954624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1467095000609849345",
+              "start": 0,
+              "username": "carnagesociety"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955722548743954624",
+        "in_reply_to_user_id": "1467095000609849345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955306830290427947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carnagesociety あああああ！本当に！？楽しみすぎる！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467095000609849345",
+        "conversation_id": "1955306830290427947",
+        "created_at": "2025-08-12T16:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T17:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955306830290427947"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Gorezono",
+              "probability": 0.732,
+              "start": 25,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955306830290427947",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3336,
+          "like_count": 184,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "Perhaps a stuffed toy of Gorezono's severed head will be released before the end of the year"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "這裡是黑貓的日記本📓CHINESE TATTOO ARTIST𖤐 為自己寫字的人𖤐 Hail Satan 𖤐流動性別•泛性戀𖤐S/dom 𖤐日本語まだまだ勉強中 𖤐 Learning basic English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/du7lucky?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/du7lucky?igsh=MWFrZHhnb2pjMjRq&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/khAu6pPqpL"
+              }
+            ]
+          }
+        },
+        "id": "1570856490654904320",
+        "location": "黒猫様の古城",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7675,
+          "following_count": 244,
+          "like_count": 7569,
+          "listed_count": 19,
+          "media_count": 690,
+          "tweet_count": 2588
+        },
+        "url": "https://t.co/khAu6pPqpL",
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T11:34:48.000Z",
+        "description": "ゴアゾノさんを推せ🩸メタルとV系が好き \n💀commission▶@yuki12278947 \n💀sub account▶@GorezonoNeo \n💀fanart▶#ゴアガールファンアート \n💀link▼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 83,
+                "tag": "ゴアガールファンアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "yuki12278947"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "GorezonoNeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yukicarnagesoc…",
+                "end": 23,
+                "expanded_url": "https://lit.link/yukicarnagesociety",
+                "start": 0,
+                "url": "https://t.co/ZWgT5VWTU9"
+              }
+            ]
+          }
+        },
+        "id": "1467095000609849345",
+        "location": "ご依頼は(@yuki12278947 )のDMへ",
+        "name": "幽妃-yuki-🫀G0RE-GlRL PR0JECT/流血少女",
+        "pinned_tweet_id": "1926237151458382090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876935508863102976/arithVKG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39520,
+          "following_count": 756,
+          "like_count": 97304,
+          "listed_count": 178,
+          "media_count": 1455,
+          "tweet_count": 38677
+        },
+        "url": "https://t.co/ZWgT5VWTU9",
+        "username": "carnagesociety",
+        "verified": true
+      }
+    ]
+  }
+}

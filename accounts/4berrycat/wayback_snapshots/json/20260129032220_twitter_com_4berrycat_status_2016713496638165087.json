@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "2016713496638165087",
+    "created_at": "2026-01-29T03:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T04:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1939752663589298180",
+          "start": 0,
+          "username": "7berrycat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016713496638165087",
+    "in_reply_to_user_id": "1939752663589298180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@7berrycat \n我的里账号 限时放送一下…\n只会有碎碎念和食物\n过段时间锁推"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "這裡是黑貓的日記本📓CHINESE TATTOO ARTIST𖤐 為自己寫字的人𖤐 流動性別•泛性戀𖤐S/dom 𖤐日本語まだまだ勉強中 𖤐 Learning basic English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/du7lucky?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/du7lucky?igsh=MWFrZHhnb2pjMjRq&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/khAu6pPqpL"
+              }
+            ]
+          }
+        },
+        "id": "1570856490654904320",
+        "location": "黒猫様の古城",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7879,
+          "following_count": 268,
+          "like_count": 8420,
+          "listed_count": 23,
+          "media_count": 767,
+          "tweet_count": 2711
+        },
+        "url": "https://t.co/khAu6pPqpL",
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T18:27:46.000Z",
+        "description": "メイン @4berrycat 这里会有碎碎念和各种食物的照片出现",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "4berrycat"
+              }
+            ]
+          }
+        },
+        "id": "1939752663589298180",
+        "name": "黒猫の部屋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939753376490954752/52WQ8mbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 1,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 97
+        },
+        "username": "7berrycat",
+        "verified": false
+      }
+    ]
+  }
+}

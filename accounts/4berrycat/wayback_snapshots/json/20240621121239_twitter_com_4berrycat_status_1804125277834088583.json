@@ -1,0 +1,244 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "1804119232722190518",
+    "created_at": "2024-06-21T12:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-21T13:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804125277834088583"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "中国",
+          "probability": 0.9077,
+          "start": 27,
+          "type": "Place"
+        },
+        {
+          "end": 37,
+          "normalized_text": "中国",
+          "probability": 0.9442,
+          "start": 36,
+          "type": "Place"
+        },
+        {
+          "end": 40,
+          "normalized_text": "台湾",
+          "probability": 0.9628,
+          "start": 39,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1178342689206493185",
+          "start": 0,
+          "username": "NANIMONO_purin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804125277834088583",
+    "in_reply_to_user_id": "1178342689206493185",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804119232722190518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NANIMONO_purin ああああああ、あなたが中国に来てほしい、中国は台湾にとても近いです"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "1804119232722190518",
+        "created_at": "2024-06-21T12:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T13:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804125277834088583"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "中国",
+              "probability": 0.9077,
+              "start": 27,
+              "type": "Place"
+            },
+            {
+              "end": 37,
+              "normalized_text": "中国",
+              "probability": 0.9442,
+              "start": 36,
+              "type": "Place"
+            },
+            {
+              "end": 40,
+              "normalized_text": "台湾",
+              "probability": 0.9628,
+              "start": 39,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1178342689206493185",
+              "start": 0,
+              "username": "NANIMONO_purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804125277834088583",
+        "in_reply_to_user_id": "1178342689206493185",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804119232722190518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NANIMONO_purin ああああああ、あなたが中国に来てほしい、中国は台湾にとても近いです"
+      },
+      {
+        "attachments": {},
+        "author_id": "1178342689206493185",
+        "conversation_id": "1804119232722190518",
+        "created_at": "2024-06-21T11:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T12:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804119232722190518"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "台湾",
+              "probability": 0.9325,
+              "start": 4,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804119232722190518",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4303,
+          "like_count": 198,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "【速報】台湾のごはん、おいしすぎる\n\n【即时新闻】台湾大米太好吃了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "黑猫化身的吸血鬼公主🕸️悲情詩人🩸恋血 断肢癖 dom👁️爱我就把灵魂和肉体都献给我",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸眠的黑貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803535156835393538/DAFHwAP-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7632,
+          "following_count": 126,
+          "like_count": 3521,
+          "listed_count": 20,
+          "tweet_count": 1897
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-29T16:16:12.000Z",
+        "description": "NANIMONO(@NANIMONO_idol) 黄色 ねぎしぷりんだよ🍮絶対ぷっちんしような〜！！！きょうもビールがうまい！6/13 TOKYO DOME CITY HALL ライブあります",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "NANIMONO_idol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/purin__oi4?igs…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/purin__oi4?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/sjgBxGegEm"
+              }
+            ]
+          }
+        },
+        "id": "1178342689206493185",
+        "location": " #せーのでぷっちん  #きょうもぷりんがうまい ",
+        "name": "眠岸ぷりん",
+        "pinned_tweet_id": "1801972885986447415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796860392771379200/PLGYspDc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92639,
+          "following_count": 197,
+          "like_count": 119283,
+          "listed_count": 630,
+          "tweet_count": 12729
+        },
+        "url": "https://t.co/sjgBxGegEm",
+        "username": "NANIMONO_purin",
+        "verified": true
+      }
+    ]
+  }
+}

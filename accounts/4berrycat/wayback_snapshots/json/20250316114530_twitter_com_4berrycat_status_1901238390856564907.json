@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1807021111676125184"
+      ],
+      "media_source_tweet_id": [
+        "1807021401905213547"
+      ]
+    },
+    "author_id": "1570856490654904320",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "id": "1401962477756162049",
+          "name": "Visual kei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1401962477756162049",
+          "name": "Visual kei"
+        }
+      }
+    ],
+    "conversation_id": "1901238390856564907",
+    "created_at": "2025-03-16T11:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T12:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901238390856564907"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "ヨーロッパ",
+          "probability": 0.6273,
+          "start": 17,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3084179173",
+          "start": 3,
+          "username": "Sena_JILUKA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sjK1LCyuyd",
+          "end": 83,
+          "expanded_url": "https://x.com/Sena_JILUKA/status/1807021401905213547/video/1",
+          "media_key": "13_1807021111676125184",
+          "start": 60,
+          "url": "https://t.co/sjK1LCyuyd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901238390856564907",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1825
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807021401905213547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sena_JILUKA: ヨーロッパ最大規模のフェスでブチかます異常V系バンドが存在するから皆んな見て欲しい。 https://t.co/sjK1LCyuyd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 107533,
+        "height": 1080,
+        "media_key": "13_1807021111676125184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1807021111676125184/img/p6pkTgJ10lgj9JxQ.jpg",
+        "public_metrics": {
+          "view_count": 702249
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1807021111676125184/vid/avc1/1280x720/el6fJUXeZzDwoYxP.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1807021111676125184/vid/avc1/640x360/F-yYCD_oyixsvHoF.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1807021111676125184/vid/avc1/480x270/U8_TAPktgaHh6Xl_.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1807021111676125184/pl/sDz0SiHcMfkqkX0S.m3u8?tag=16&v=858"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1807021111676125184/vid/avc1/1920x1080/H4kp_2VVo9x5wmLP.mp4?tag=16"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1807021111676125184"
+          ],
+          "media_source_tweet_id": [
+            "1807021401905213547"
+          ]
+        },
+        "author_id": "1570856490654904320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          }
+        ],
+        "conversation_id": "1901238390856564907",
+        "created_at": "2025-03-16T11:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T12:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901238390856564907"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "ヨーロッパ",
+              "probability": 0.6273,
+              "start": 17,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3084179173",
+              "start": 3,
+              "username": "Sena_JILUKA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sjK1LCyuyd",
+              "end": 83,
+              "expanded_url": "https://x.com/Sena_JILUKA/status/1807021401905213547/video/1",
+              "media_key": "13_1807021111676125184",
+              "start": 60,
+              "url": "https://t.co/sjK1LCyuyd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901238390856564907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1825
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807021401905213547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sena_JILUKA: ヨーロッパ最大規模のフェスでブチかます異常V系バンドが存在するから皆んな見て欲しい。 https://t.co/sjK1LCyuyd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1807021111676125184"
+          ]
+        },
+        "author_id": "3084179173",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          }
+        ],
+        "conversation_id": "1807021401905213547",
+        "created_at": "2024-06-29T12:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T13:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807021401905213547"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "ヨーロッパ",
+              "probability": 0.6591,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sjK1LCyuyd",
+              "end": 66,
+              "expanded_url": "https://x.com/Sena_JILUKA/status/1807021401905213547/video/1",
+              "media_key": "13_1807021111676125184",
+              "start": 43,
+              "url": "https://t.co/sjK1LCyuyd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807021401905213547",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1295,
+          "impression_count": 1817492,
+          "like_count": 10166,
+          "quote_count": 249,
+          "reply_count": 50,
+          "retweet_count": 1825
+        },
+        "reply_settings": "everyone",
+        "text": "ヨーロッパ最大規模のフェスでブチかます異常V系バンドが存在するから皆んな見て欲しい。 https://t.co/sjK1LCyuyd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "piercer&tattoo artist 𖤐悲情诗人𖤐 Hail Satan 𖤐日常微信门槛277只是好友位 𖤐流动性别•泛性恋𖤐死神格雷尔的主人和爱人𖤐S/dom",
+        "id": "1570856490654904320",
+        "location": "黑猫大人的古堡",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7383,
+          "following_count": 185,
+          "like_count": 5910,
+          "listed_count": 0,
+          "media_count": 587,
+          "tweet_count": 2288
+        },
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-15T08:26:51.000Z",
+        "description": "🥀SENA Official Twitter🥀 JILUKA / Guitar / Rap / Composer ⬇️YouTube,Instagram,TikTok⬇️ https://t.co/1iTULxHrJD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Sena_Official",
+                "end": 109,
+                "expanded_url": "http://linktr.ee/Sena_Official",
+                "start": 86,
+                "url": "https://t.co/1iTULxHrJD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jiluka-web.com",
+                "end": 23,
+                "expanded_url": "http://www.jiluka-web.com/",
+                "start": 0,
+                "url": "https://t.co/WQSEqCrylF"
+              }
+            ]
+          }
+        },
+        "id": "3084179173",
+        "name": "⚜️JILUKA_Sena⚜️",
+        "pinned_tweet_id": "1807021401905213547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882765287940145152/ykwFGF7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62683,
+          "following_count": 157,
+          "like_count": 689,
+          "listed_count": 190,
+          "media_count": 1847,
+          "tweet_count": 6865
+        },
+        "url": "https://t.co/WQSEqCrylF",
+        "username": "Sena_JILUKA",
+        "verified": true
+      }
+    ]
+  }
+}
