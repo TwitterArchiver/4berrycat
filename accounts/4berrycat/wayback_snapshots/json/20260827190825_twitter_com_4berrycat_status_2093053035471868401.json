@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1570856490654904320",
+    "conversation_id": "2092586140419428677",
+    "created_at": "2026-08-27T19:08:25.000Z",
+    "display_text_range": [
+      17,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T20:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093053035471868401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3282067795",
+          "start": 0,
+          "username": "KazutarouTattoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093053035471868401",
+    "in_reply_to_user_id": "3282067795",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092586140419428677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KazutarouTattoo かっこいい…かわいい…面白すぎる…！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_2092586133847003136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpcAHHb0AAESL2.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1307,
+        "media_key": "3_2092586133838532608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpcAHFakAAAaHG.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "2092586140419428677",
+        "created_at": "2026-08-27T19:08:25.000Z",
+        "display_text_range": [
+          17,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T20:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093053035471868401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3282067795",
+              "start": 0,
+              "username": "KazutarouTattoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093053035471868401",
+        "in_reply_to_user_id": "3282067795",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092586140419428677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KazutarouTattoo かっこいい…かわいい…面白すぎる…！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092586133847003136",
+            "3_2092586133838532608"
+          ]
+        },
+        "author_id": "3282067795",
+        "conversation_id": "2092586140419428677",
+        "created_at": "2026-08-26T12:13:08.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092586140419428677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O1y2EzzpCp",
+              "end": 23,
+              "expanded_url": "https://x.com/KazutarouTattoo/status/2092586140419428677/photo/1",
+              "media_key": "3_2092586133847003136",
+              "start": 0,
+              "url": "https://t.co/O1y2EzzpCp"
+            },
+            {
+              "display_url": "pic.x.com/O1y2EzzpCp",
+              "end": 23,
+              "expanded_url": "https://x.com/KazutarouTattoo/status/2092586140419428677/photo/1",
+              "media_key": "3_2092586133838532608",
+              "start": 0,
+              "url": "https://t.co/O1y2EzzpCp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092586140419428677",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2092586133847003136"
+          },
+          {
+            "media_key": "3_2092586133838532608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2637,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/O1y2EzzpCp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "這裡是黑貓的日記本📓CHINESE TATTOO ARTIST𖤐 為自己寫字的人𖤐 日本語まだまだ勉強中 𖤐 Learning basic English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/du7lucky?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/du7lucky?igsh=MWFrZHhnb2pjMjRq&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/khAu6pPqpL"
+              }
+            ]
+          }
+        },
+        "id": "1570856490654904320",
+        "is_identity_verified": false,
+        "location": "黒猫様の古城",
+        "most_recent_tweet_id": "2093053035471868401",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1570856490654904320/1720794932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8533,
+          "following_count": 287,
+          "like_count": 9877,
+          "listed_count": 19,
+          "media_count": 777,
+          "tweet_count": 2744
+        },
+        "url": "https://t.co/khAu6pPqpL",
+        "username": "4berrycat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-07-17T03:31:58.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kazutaroutattoo",
+                "end": 23,
+                "expanded_url": "https://lit.link/kazutaroutattoo",
+                "start": 0,
+                "url": "https://t.co/GoaZFfBjac"
+              }
+            ]
+          }
+        },
+        "id": "3282067795",
+        "is_identity_verified": false,
+        "location": "大阪",
+        "most_recent_tweet_id": "2092887092892504076",
+        "name": "蚊ずたろう",
+        "pinned_tweet_id": "1913781028248011033",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3282067795/1774506535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029073490113118212/Ui-Zi2Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14524,
+          "following_count": 0,
+          "like_count": 33192,
+          "listed_count": 46,
+          "media_count": 6611,
+          "tweet_count": 22323
+        },
+        "url": "https://t.co/GoaZFfBjac",
+        "username": "KazutarouTattoo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
